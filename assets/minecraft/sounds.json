@@ -1,0 +1,19 @@
+{
+  "music.menu": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extramusic:music/modular",
+        "stream": true
+      }
+    ]
+  },
+  "music.game": {
+    "sounds": [
+      {
+        "name": "extramusic:music/modular",
+        "stream": true
+      }
+    ]
+  }
+}
