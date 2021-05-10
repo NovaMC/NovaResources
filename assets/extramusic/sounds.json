@@ -1,0 +1,10 @@
+{
+  "music.intro": {
+    "sounds": [
+      {
+        "name": "extramusic:music/modular",
+        "stream": true
+      }
+    ]
+  }
+}
