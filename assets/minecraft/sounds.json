@@ -120,22 +120,34 @@
   "block.glass.fall": {
     "sounds": [
       {
-        "name": "step/glassstep1"
+        "name": "step/glassstep1",
+        "pitch": 0.8,
+        "volume": 3.5
       },
       {
-        "name": "step/glassstep2"
+        "name": "step/glassstep2",
+        "pitch": 0.8,
+        "volume": 3.5
       },
       {
-        "name": "step/glassstep3"
+        "name": "step/glassstep3",
+        "pitch": 0.8,
+        "volume": 3.5
       },
       {
-        "name": "step/glassstep4"
+        "name": "step/glassstep4",
+        "pitch": 0.8,
+        "volume": 3.5
       },
       {
-        "name": "step/glassstep5"
+        "name": "step/glassstep5",
+        "pitch": 0.8,
+        "volume": 3.5
       },
       {
-        "name": "step/glassstep6"
+        "name": "step/glassstep6",
+        "pitch": 0.8,
+        "volume": 3.5
       }
     ],
     "replace": "true"
@@ -143,46 +155,58 @@
   "block.glass.step": {
     "sounds": [
       {
-        "name": "step/glassstep1"
-      },
-      {
-        "name": "step/glassstep2"
-      },
-      {
-        "name": "step/glassstep3"
-      },
-      {
-        "name": "step/glassstep4"
-      },
-      {
-        "name": "step/glassstep5"
-      },
-      {
-        "name": "step/glassstep6"
-      },
-      {
         "name": "step/glassstep1",
-        "pitch": 0.8
+        "volume": 2
       },
       {
         "name": "step/glassstep2",
-        "pitch": 0.8
+        "volume": 2
       },
       {
         "name": "step/glassstep3",
-        "pitch": 0.8
+        "volume": 2
       },
       {
         "name": "step/glassstep4",
-        "pitch": 1.2
+        "volume": 2
       },
       {
         "name": "step/glassstep5",
-        "pitch": 1.2
+        "volume": 2
       },
       {
         "name": "step/glassstep6",
-        "pitch": 1.2
+        "volume": 2
+      },
+      {
+        "name": "step/glassstep1",
+        "pitch": 0.8,
+        "volume": 2
+      },
+      {
+        "name": "step/glassstep2",
+        "pitch": 0.8,
+        "volume": 2
+      },
+      {
+        "name": "step/glassstep3",
+        "pitch": 0.8,
+        "volume": 2
+      },
+      {
+        "name": "step/glassstep4",
+        "pitch": 1.2,
+        "volume": 2
+      },
+      {
+        "name": "step/glassstep5",
+        "pitch": 1.2,
+        "volume": 2
+      },
+      {
+        "name": "step/glassstep6",
+        "pitch": 1.2,
+        "volume": 2
       }
     ],
     "replace": "true"
@@ -193,42 +217,42 @@
         "name": "step/grassstep1",
         "weight": 100,
         "stream": false,
-        "volume": 2,
+        "volume": 1.5,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep2",
         "weight": 100,
         "stream": false,
-        "volume": 2,
+        "volume": 1.5,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep3",
         "weight": 100,
         "stream": false,
-        "volume": 2,
+        "volume": 1.5,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep4",
         "weight": 100,
         "stream": false,
-        "volume": 2,
+        "volume": 1.5,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep5",
         "weight": 100,
         "stream": false,
-        "volume": 2,
+        "volume": 1.5,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep6",
         "weight": 100,
         "stream": false,
-        "volume": 2,
+        "volume": 1.5,
         "attenuation_distance": 8
       }
     ],
@@ -309,27 +333,33 @@
     "sounds": [
       {
         "name": "step/metalstep1",
-        "pitch": 1
+        "pitch": 0.8,
+        "volume": 4
       },
       {
         "name": "step/metalstep2",
-        "pitch": 1
+        "pitch": 0.8,
+        "volume": 4
       },
       {
         "name": "step/metalstep3",
-        "pitch": 1
+        "pitch": 0.8,
+        "volume": 4
       },
       {
         "name": "step/metalstep4",
-        "pitch": 1
+        "pitch": 0.8,
+        "volume": 4
       },
       {
         "name": "step/metalstep5",
-        "pitch": 1
+        "pitch": 0.8,
+        "volume": 4
       },
       {
         "name": "step/metalstep6",
-        "pitch": 1
+        "pitch": 0.8,
+        "volume": 4
       }
     ],
     "replace": "true"
@@ -339,62 +369,62 @@
       {
         "name": "step/metalstep1",
         "pitch": 0.5,
-        "volume": 2
+        "volume": 3
       },
       {
         "name": "step/metalstep2",
         "pitch": 0.5,
-        "volume": 2
+        "volume": 3
       },
       {
         "name": "step/metalstep3",
         "pitch": 0.5,
-        "volume": 2
+        "volume": 3
       },
       {
         "name": "step/metalstep4",
         "pitch": 0.5,
-        "volume": 2
+        "volume": 3
       },
       {
         "name": "step/metalstep5",
         "pitch": 0.5,
-        "volume": 2
+        "volume": 3
       },
       {
         "name": "step/metalstep6",
         "pitch": 0.5,
-        "volume": 2
+        "volume": 3
       },
       {
         "name": "step/metalstep1",
         "pitch": 0.3,
-        "volume": 2
+        "volume": 3
       },
       {
         "name": "step/metalstep2",
         "pitch": 0.3,
-        "volume": 2
+        "volume": 3
       },
       {
         "name": "step/metalstep3",
         "pitch": 0.3,
-        "volume": 2
+        "volume": 3
       },
       {
         "name": "step/metalstep4",
         "pitch": 0.7,
-        "volume": 2
+        "volume": 3
       },
       {
         "name": "step/metalstep5",
         "pitch": 0.7,
-        "volume": 2
+        "volume": 3
       },
       {
         "name": "step/metalstep6",
         "pitch": 0.7,
-        "volume": 2
+        "volume": 3
       }
     ],
     "replace": "true"
@@ -474,69 +504,218 @@
     "sounds": [
       {
         "name": "step/snowstep1",
-        "volume": 2,
+        "volume": 3,
         "weight": 100
       },
       {
         "name": "step/snowstep2",
-        "volume": 2,
+        "volume": 3,
         "weight": 100
       },
       {
         "name": "step/snowstep3",
-        "volume": 2,
+        "volume": 3,
         "weight": 100
       },
       {
         "name": "step/snowstep4",
-        "volume": 2,
+        "volume": 3,
         "weight": 100
       },
       {
         "name": "step/snowstep5",
-        "volume": 2,
+        "volume": 3,
         "weight": 100
       },
       {
         "name": "step/snowstep6",
-        "volume": 2,
+        "volume": 3,
         "weight": 100
       },
       {
         "name": "step/snowstep1",
-        "volume": 2,
+        "volume": 3,
         "weight": 100,
         "pitch": 0.8
       },
       {
         "name": "step/snowstep2",
-        "volume": 2,
+        "volume": 3,
         "weight": 100,
         "pitch": 0.8
       },
       {
         "name": "step/snowstep3",
-        "volume": 2,
+        "volume": 3,
         "weight": 100,
         "pitch": 0.8
       },
       {
         "name": "step/snowstep4",
-        "volume": 2,
+        "volume": 3,
         "weight": 100,
         "pitch": 1.2
       },
       {
         "name": "step/snowstep5",
-        "volume": 2,
+        "volume": 3,
         "weight": 100,
         "pitch": 1.2
       },
       {
         "name": "step/snowstep6",
-        "volume": 2,
+        "volume": 3,
         "weight": 100,
         "pitch": 1.2
+      }
+    ],
+    "replace": "true"
+  },
+  "block.stone.fall": {
+    "sounds": [
+      {
+        "name": "step/marble_walk1",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/marble_walk10",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/marble_walk11",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/marble_walk2",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/marble_walk3",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/marble_walk4",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/marble_walk5",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/marble_walk6",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/marble_walk7",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/marble_walk8",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/marble_walk9",
+        "volume": 1.5,
+        "pitch": 0.5
+      }
+    ],
+    "replace": "true"
+  },
+  "block.stone.step": {
+    "sounds": [
+      {
+        "name": "step/marble_walk1",
+        "volume": 0.7,
+        "pitch": 0.7
+      },
+      {
+        "name": "step/marble_walk10",
+        "volume": 0.7,
+        "pitch": 0.7
+      },
+      {
+        "name": "step/marble_walk11",
+        "volume": 0.7,
+        "pitch": 0.7
+      },
+      {
+        "name": "step/marble_walk2",
+        "volume": 0.7,
+        "pitch": 0.7
+      },
+      {
+        "name": "step/marble_walk3",
+        "volume": 0.7,
+        "pitch": 0.7
+      },
+      {
+        "name": "step/marble_walk4",
+        "volume": 0.7,
+        "pitch": 0.7
+      },
+      {
+        "name": "step/marble_walk5",
+        "volume": 0.7,
+        "pitch": 0.7
+      },
+      {
+        "name": "step/marble_walk6",
+        "volume": 0.7,
+        "pitch": 0.7
+      },
+      {
+        "name": "step/marble_walk7",
+        "volume": 0.7,
+        "pitch": 0.7
+      },
+      {
+        "name": "step/marble_walk8",
+        "volume": 0.7,
+        "pitch": 0.7
+      },
+      {
+        "name": "step/marble_walk9",
+        "volume": 0.7,
+        "pitch": 0.7
+      }
+    ],
+    "replace": "true"
+  },
+  "block.wood.fall": {
+    "sounds": [
+      {
+        "name": "step/woodstep1",
+        "volume": 2
+      },
+      {
+        "name": "step/woodstep2",
+        "volume": 2
+      },
+      {
+        "name": "step/woodstep3",
+        "volume": 2
+      },
+      {
+        "name": "step/woodstep4",
+        "volume": 2
+      },
+      {
+        "name": "step/woodstep5",
+        "volume": 2
+      },
+      {
+        "name": "step/woodstep6",
+        "volume": 2
       }
     ],
     "replace": "true"
@@ -546,68 +725,68 @@
       {
         "name": "step/woodstep1",
         "weight": 100,
-        "volume": 0.5
+        "volume": 0.8
       },
       {
         "name": "step/woodstep2",
         "weight": 100,
-        "volume": 0.5
+        "volume": 0.8
       },
       {
         "name": "step/woodstep3",
         "weight": 100,
-        "volume": 0.5
+        "volume": 0.8
       },
       {
         "name": "step/woodstep4",
         "weight": 100,
-        "volume": 0.5
+        "volume": 0.8
       },
       {
         "name": "step/woodstep5",
         "weight": 100,
-        "volume": 0.5
+        "volume": 0.8
       },
       {
         "name": "step/woodstep6",
         "weight": 100,
-        "volume": 0.5
+        "volume": 0.8
       },
       {
         "name": "step/woodstep1",
         "weight": 100,
         "pitch": 0.8,
-        "volume": 0.5
+        "volume": 0.8
       },
       {
         "name": "step/woodstep2",
         "weight": 100,
         "pitch": 0.8,
-        "volume": 0.5
+        "volume": 0.8
       },
       {
         "name": "step/woodstep3",
         "weight": 100,
         "pitch": 0.8,
-        "volume": 0.5
+        "volume": 0.8
       },
       {
         "name": "step/woodstep4",
         "weight": 100,
         "pitch": 1.2,
-        "volume": 0.5
+        "volume": 0.8
       },
       {
         "name": "step/woodstep5",
         "weight": 100,
         "pitch": 1.2,
-        "volume": 0.5
+        "volume": 0.8
       },
       {
         "name": "step/woodstep6",
         "weight": 100,
         "pitch": 1.2,
-        "volume": 0.5
+        "volume": 0.8
       }
     ],
     "replace": "true"
