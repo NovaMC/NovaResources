@@ -193,42 +193,42 @@
         "name": "step/grassstep1",
         "weight": 100,
         "stream": false,
-        "volume": 3,
+        "volume": 2,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep2",
         "weight": 100,
         "stream": false,
-        "volume": 3,
+        "volume": 2,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep3",
         "weight": 100,
         "stream": false,
-        "volume": 3,
+        "volume": 2,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep4",
         "weight": 100,
         "stream": false,
-        "volume": 3,
+        "volume": 2,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep5",
         "weight": 100,
         "stream": false,
-        "volume": 3,
+        "volume": 2,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep6",
         "weight": 100,
         "stream": false,
-        "volume": 3,
+        "volume": 2,
         "attenuation_distance": 8
       }
     ],
@@ -404,67 +404,67 @@
       {
         "name": "step/sandstep1",
         "weight": 100,
-        "volume": 1
+        "volume": 2
       },
       {
         "name": "step/sandstep2",
         "weight": 100,
-        "volume": 1
+        "volume": 2
       },
       {
         "name": "step/sandstep3",
         "weight": 100,
-        "volume": 1
+        "volume": 2
       },
       {
         "name": "step/sandstep4",
         "weight": 100,
-        "volume": 1
+        "volume": 2
       },
       {
         "name": "step/sandstep5",
         "weight": 100,
-        "volume": 1
+        "volume": 2
       },
       {
         "name": "step/sandstep6",
         "weight": 100,
-        "volume": 1
+        "volume": 2
       },
       {
         "name": "step/sandstep1",
         "weight": 100,
-        "volume": 1,
+        "volume": 2,
         "pitch": 1.2
       },
       {
         "name": "step/sandstep2",
         "weight": 100,
-        "volume": 1,
+        "volume": 2,
         "pitch": 1.2
       },
       {
         "name": "step/sandstep3",
         "weight": 100,
-        "volume": 1,
+        "volume": 2,
         "pitch": 1.2
       },
       {
         "name": "step/sandstep4",
         "weight": 100,
-        "volume": 1,
+        "volume": 2,
         "pitch": 0.8
       },
       {
         "name": "step/sandstep5",
         "weight": 100,
-        "volume": 1,
+        "volume": 2,
         "pitch": 0.8
       },
       {
         "name": "step/sandstep6",
         "weight": 100,
-        "volume": 1,
+        "volume": 2,
         "pitch": 0.8
       }
     ],
@@ -474,127 +474,68 @@
     "sounds": [
       {
         "name": "step/snowstep1",
+        "volume": 2,
         "weight": 100
       },
       {
         "name": "step/snowstep2",
+        "volume": 2,
         "weight": 100
       },
       {
         "name": "step/snowstep3",
+        "volume": 2,
         "weight": 100
       },
       {
         "name": "step/snowstep4",
+        "volume": 2,
         "weight": 100
       },
       {
         "name": "step/snowstep5",
+        "volume": 2,
         "weight": 100
       },
       {
         "name": "step/snowstep6",
+        "volume": 2,
         "weight": 100
       },
       {
         "name": "step/snowstep1",
+        "volume": 2,
         "weight": 100,
         "pitch": 0.8
       },
       {
         "name": "step/snowstep2",
+        "volume": 2,
         "weight": 100,
         "pitch": 0.8
       },
       {
         "name": "step/snowstep3",
+        "volume": 2,
         "weight": 100,
         "pitch": 0.8
       },
       {
         "name": "step/snowstep4",
+        "volume": 2,
         "weight": 100,
         "pitch": 1.2
       },
       {
         "name": "step/snowstep5",
+        "volume": 2,
         "weight": 100,
         "pitch": 1.2
       },
       {
         "name": "step/snowstep6",
+        "volume": 2,
         "weight": 100,
-        "pitch": 1.2
-      }
-    ],
-    "replace": "true"
-  },
-  "block.stone.step": {
-    "sounds": [
-      {
-        "name": "step/stonestep1",
-        "weight": 100,
-        "volume": 8
-      },
-      {
-        "name": "step/stonestep2",
-        "weight": 100,
-        "volume": 8
-      },
-      {
-        "name": "step/stonestep3",
-        "weight": 100,
-        "volume": 8
-      },
-      {
-        "name": "step/stonestep4",
-        "weight": 100,
-        "volume": 8
-      },
-      {
-        "name": "step/stonestep5",
-        "weight": 100,
-        "volume": 8
-      },
-      {
-        "name": "step/stonestep6",
-        "weight": 100,
-        "volume": 8
-      },
-      {
-        "name": "step/stonestep1",
-        "weight": 100,
-        "volume": 8,
-        "pitch": 0.8
-      },
-      {
-        "name": "step/stonestep2",
-        "weight": 100,
-        "volume": 8,
-        "pitch": 0.8
-      },
-      {
-        "name": "step/stonestep3",
-        "weight": 100,
-        "volume": 8,
-        "pitch": 0.8
-      },
-      {
-        "name": "step/stonestep4",
-        "weight": 100,
-        "volume": 8,
-        "pitch": 1.2
-      },
-      {
-        "name": "step/stonestep5",
-        "weight": 100,
-        "volume": 8,
-        "pitch": 1.2
-      },
-      {
-        "name": "step/stonestep6",
-        "weight": 100,
-        "volume": 8,
         "pitch": 1.2
       }
     ],
@@ -676,73 +617,73 @@
       {
         "name": "step/clothstep1",
         "weight": 100,
-        "volume": 5,
+        "volume": 8,
         "pitch": 1
       },
       {
         "name": "step/clothstep2",
         "weight": 100,
-        "volume": 5,
+        "volume": 8,
         "pitch": 1
       },
       {
         "name": "step/clothstep3",
         "weight": 100,
-        "volume": 5,
+        "volume": 8,
         "pitch": 1
       },
       {
         "name": "step/clothstep4",
         "weight": 100,
-        "volume": 5,
+        "volume": 8,
         "pitch": 1
       },
       {
         "name": "step/clothstep5",
         "weight": 100,
-        "volume": 5,
+        "volume": 8,
         "pitch": 1
       },
       {
         "name": "step/clothstep6",
         "weight": 100,
-        "volume": 5,
+        "volume": 8,
         "pitch": 1
       },
       {
         "name": "step/clothstep1",
         "weight": 100,
-        "volume": 5,
+        "volume": 8,
         "pitch": 0.8
       },
       {
         "name": "step/clothstep2",
         "weight": 100,
-        "volume": 5,
+        "volume": 8,
         "pitch": 0.8
       },
       {
         "name": "step/clothstep3",
         "weight": 100,
-        "volume": 5,
+        "volume": 8,
         "pitch": 0.8
       },
       {
         "name": "step/clothstep4",
         "weight": 100,
-        "volume": 5,
+        "volume": 8,
         "pitch": 1.2
       },
       {
         "name": "step/clothstep5",
         "weight": 100,
-        "volume": 5,
+        "volume": 8,
         "pitch": 1.2
       },
       {
         "name": "step/clothstep6",
         "weight": 100,
-        "volume": 5,
+        "volume": 8,
         "pitch": 1.2
       }
     ],
