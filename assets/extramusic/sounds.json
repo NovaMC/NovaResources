@@ -1,8 +1,16 @@
 {
-  "music.intro": {
+  "music.modular": {
     "sounds": [
       {
         "name": "extramusic:music/modular",
+        "stream": true
+      }
+    ]
+  },
+  "music.shuniji": {
+    "sounds": [
+      {
+        "name": "extramusic:music/shuniji",
         "stream": true
       }
     ]

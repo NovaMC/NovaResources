@@ -15,7 +15,737 @@
         "name": "extramusic:music/modular",
         "stream": true,
         "volume": 0.2
+      },
+      {
+        "name": "extramusic:music/shuniji",
+        "stream": true,
+        "volume": 0.3
       }
     ]
+  },
+  "block.anvil.fall": {
+    "sounds": [
+      {
+        "name": "step/metalstep1",
+        "pitch": 1
+      },
+      {
+        "name": "step/metalstep2",
+        "pitch": 1
+      },
+      {
+        "name": "step/metalstep3",
+        "pitch": 1
+      },
+      {
+        "name": "step/metalstep4",
+        "pitch": 1
+      },
+      {
+        "name": "step/metalstep5",
+        "pitch": 1
+      },
+      {
+        "name": "step/metalstep6",
+        "pitch": 1
+      }
+    ],
+    "replace": "true"
+  },
+  "block.anvil.step": {
+    "sounds": [
+      {
+        "name": "step/metalstep1",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep2",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep3",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep4",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep5",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep6",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep1",
+        "pitch": 0.3,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep2",
+        "pitch": 0.3,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep3",
+        "pitch": 0.3,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep4",
+        "pitch": 0.7,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep5",
+        "pitch": 0.7,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep6",
+        "pitch": 0.7,
+        "volume": 2
+      }
+    ],
+    "replace": "true"
+  },
+  "block.glass.fall": {
+    "sounds": [
+      {
+        "name": "step/glassstep1"
+      },
+      {
+        "name": "step/glassstep2"
+      },
+      {
+        "name": "step/glassstep3"
+      },
+      {
+        "name": "step/glassstep4"
+      },
+      {
+        "name": "step/glassstep5"
+      },
+      {
+        "name": "step/glassstep6"
+      }
+    ],
+    "replace": "true"
+  },
+  "block.glass.step": {
+    "sounds": [
+      {
+        "name": "step/glassstep1"
+      },
+      {
+        "name": "step/glassstep2"
+      },
+      {
+        "name": "step/glassstep3"
+      },
+      {
+        "name": "step/glassstep4"
+      },
+      {
+        "name": "step/glassstep5"
+      },
+      {
+        "name": "step/glassstep6"
+      },
+      {
+        "name": "step/glassstep1",
+        "pitch": 0.8
+      },
+      {
+        "name": "step/glassstep2",
+        "pitch": 0.8
+      },
+      {
+        "name": "step/glassstep3",
+        "pitch": 0.8
+      },
+      {
+        "name": "step/glassstep4",
+        "pitch": 1.2
+      },
+      {
+        "name": "step/glassstep5",
+        "pitch": 1.2
+      },
+      {
+        "name": "step/glassstep6",
+        "pitch": 1.2
+      }
+    ],
+    "replace": "true"
+  },
+  "block.grass.step": {
+    "sounds": [
+      {
+        "name": "step/grassstep1",
+        "weight": 100,
+        "stream": false,
+        "volume": 3,
+        "attenuation_distance": 8
+      },
+      {
+        "name": "step/grassstep2",
+        "weight": 100,
+        "stream": false,
+        "volume": 3,
+        "attenuation_distance": 8
+      },
+      {
+        "name": "step/grassstep3",
+        "weight": 100,
+        "stream": false,
+        "volume": 3,
+        "attenuation_distance": 8
+      },
+      {
+        "name": "step/grassstep4",
+        "weight": 100,
+        "stream": false,
+        "volume": 3,
+        "attenuation_distance": 8
+      },
+      {
+        "name": "step/grassstep5",
+        "weight": 100,
+        "stream": false,
+        "volume": 3,
+        "attenuation_distance": 8
+      },
+      {
+        "name": "step/grassstep6",
+        "weight": 100,
+        "stream": false,
+        "volume": 3,
+        "attenuation_distance": 8
+      }
+    ],
+    "replace": "true"
+  },
+  "block.gravel.step": {
+    "sounds": [
+      {
+        "name": "step/gravelstep1",
+        "weight": 30,
+        "volume": 2
+      },
+      {
+        "name": "step/gravelstep2",
+        "weight": 30,
+        "volume": 2
+      },
+      {
+        "name": "step/gravelstep3",
+        "weight": 30,
+        "volume": 2
+      },
+      {
+        "name": "step/gravelstep4",
+        "weight": 30,
+        "volume": 2
+      },
+      {
+        "name": "step/gravelstep5",
+        "weight": 30,
+        "volume": 2
+      },
+      {
+        "name": "step/gravelstep6",
+        "weight": 30,
+        "volume": 2
+      },
+      {
+        "name": "step/gravelstep1",
+        "weight": 30,
+        "pitch": 0.8,
+        "volume": 2
+      },
+      {
+        "name": "step/gravelstep2",
+        "weight": 30,
+        "pitch": 0.8,
+        "volume": 2
+      },
+      {
+        "name": "step/gravelstep3",
+        "weight": 30,
+        "pitch": 0.8,
+        "volume": 2
+      },
+      {
+        "name": "step/gravelstep4",
+        "weight": 30,
+        "pitch": 1.2,
+        "volume": 2
+      },
+      {
+        "name": "step/gravelstep5",
+        "weight": 30,
+        "pitch": 1.2,
+        "volume": 2
+      },
+      {
+        "name": "step/gravelstep6",
+        "weight": 30,
+        "pitch": 1.2,
+        "volume": 2
+      }
+    ],
+    "replace": "true"
+  },
+  "block.metal.fall": {
+    "sounds": [
+      {
+        "name": "step/metalstep1",
+        "pitch": 1
+      },
+      {
+        "name": "step/metalstep2",
+        "pitch": 1
+      },
+      {
+        "name": "step/metalstep3",
+        "pitch": 1
+      },
+      {
+        "name": "step/metalstep4",
+        "pitch": 1
+      },
+      {
+        "name": "step/metalstep5",
+        "pitch": 1
+      },
+      {
+        "name": "step/metalstep6",
+        "pitch": 1
+      }
+    ],
+    "replace": "true"
+  },
+  "block.metal.step": {
+    "sounds": [
+      {
+        "name": "step/metalstep1",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep2",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep3",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep4",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep5",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep6",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep1",
+        "pitch": 0.3,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep2",
+        "pitch": 0.3,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep3",
+        "pitch": 0.3,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep4",
+        "pitch": 0.7,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep5",
+        "pitch": 0.7,
+        "volume": 2
+      },
+      {
+        "name": "step/metalstep6",
+        "pitch": 0.7,
+        "volume": 2
+      }
+    ],
+    "replace": "true"
+  },
+  "block.sand.step": {
+    "sounds": [
+      {
+        "name": "step/sandstep1",
+        "weight": 100,
+        "volume": 1
+      },
+      {
+        "name": "step/sandstep2",
+        "weight": 100,
+        "volume": 1
+      },
+      {
+        "name": "step/sandstep3",
+        "weight": 100,
+        "volume": 1
+      },
+      {
+        "name": "step/sandstep4",
+        "weight": 100,
+        "volume": 1
+      },
+      {
+        "name": "step/sandstep5",
+        "weight": 100,
+        "volume": 1
+      },
+      {
+        "name": "step/sandstep6",
+        "weight": 100,
+        "volume": 1
+      },
+      {
+        "name": "step/sandstep1",
+        "weight": 100,
+        "volume": 1,
+        "pitch": 1.2
+      },
+      {
+        "name": "step/sandstep2",
+        "weight": 100,
+        "volume": 1,
+        "pitch": 1.2
+      },
+      {
+        "name": "step/sandstep3",
+        "weight": 100,
+        "volume": 1,
+        "pitch": 1.2
+      },
+      {
+        "name": "step/sandstep4",
+        "weight": 100,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "step/sandstep5",
+        "weight": 100,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "step/sandstep6",
+        "weight": 100,
+        "volume": 1,
+        "pitch": 0.8
+      }
+    ],
+    "replace": "true"
+  },
+  "block.snow.step": {
+    "sounds": [
+      {
+        "name": "step/snowstep1",
+        "weight": 100
+      },
+      {
+        "name": "step/snowstep2",
+        "weight": 100
+      },
+      {
+        "name": "step/snowstep3",
+        "weight": 100
+      },
+      {
+        "name": "step/snowstep4",
+        "weight": 100
+      },
+      {
+        "name": "step/snowstep5",
+        "weight": 100
+      },
+      {
+        "name": "step/snowstep6",
+        "weight": 100
+      },
+      {
+        "name": "step/snowstep1",
+        "weight": 100,
+        "pitch": 0.8
+      },
+      {
+        "name": "step/snowstep2",
+        "weight": 100,
+        "pitch": 0.8
+      },
+      {
+        "name": "step/snowstep3",
+        "weight": 100,
+        "pitch": 0.8
+      },
+      {
+        "name": "step/snowstep4",
+        "weight": 100,
+        "pitch": 1.2
+      },
+      {
+        "name": "step/snowstep5",
+        "weight": 100,
+        "pitch": 1.2
+      },
+      {
+        "name": "step/snowstep6",
+        "weight": 100,
+        "pitch": 1.2
+      }
+    ],
+    "replace": "true"
+  },
+  "block.stone.step": {
+    "sounds": [
+      {
+        "name": "step/stonestep1",
+        "weight": 100,
+        "volume": 8
+      },
+      {
+        "name": "step/stonestep2",
+        "weight": 100,
+        "volume": 8
+      },
+      {
+        "name": "step/stonestep3",
+        "weight": 100,
+        "volume": 8
+      },
+      {
+        "name": "step/stonestep4",
+        "weight": 100,
+        "volume": 8
+      },
+      {
+        "name": "step/stonestep5",
+        "weight": 100,
+        "volume": 8
+      },
+      {
+        "name": "step/stonestep6",
+        "weight": 100,
+        "volume": 8
+      },
+      {
+        "name": "step/stonestep1",
+        "weight": 100,
+        "volume": 8,
+        "pitch": 0.8
+      },
+      {
+        "name": "step/stonestep2",
+        "weight": 100,
+        "volume": 8,
+        "pitch": 0.8
+      },
+      {
+        "name": "step/stonestep3",
+        "weight": 100,
+        "volume": 8,
+        "pitch": 0.8
+      },
+      {
+        "name": "step/stonestep4",
+        "weight": 100,
+        "volume": 8,
+        "pitch": 1.2
+      },
+      {
+        "name": "step/stonestep5",
+        "weight": 100,
+        "volume": 8,
+        "pitch": 1.2
+      },
+      {
+        "name": "step/stonestep6",
+        "weight": 100,
+        "volume": 8,
+        "pitch": 1.2
+      }
+    ],
+    "replace": "true"
+  },
+  "block.wood.step": {
+    "sounds": [
+      {
+        "name": "step/woodstep1",
+        "weight": 100,
+        "volume": 0.5
+      },
+      {
+        "name": "step/woodstep2",
+        "weight": 100,
+        "volume": 0.5
+      },
+      {
+        "name": "step/woodstep3",
+        "weight": 100,
+        "volume": 0.5
+      },
+      {
+        "name": "step/woodstep4",
+        "weight": 100,
+        "volume": 0.5
+      },
+      {
+        "name": "step/woodstep5",
+        "weight": 100,
+        "volume": 0.5
+      },
+      {
+        "name": "step/woodstep6",
+        "weight": 100,
+        "volume": 0.5
+      },
+      {
+        "name": "step/woodstep1",
+        "weight": 100,
+        "pitch": 0.8,
+        "volume": 0.5
+      },
+      {
+        "name": "step/woodstep2",
+        "weight": 100,
+        "pitch": 0.8,
+        "volume": 0.5
+      },
+      {
+        "name": "step/woodstep3",
+        "weight": 100,
+        "pitch": 0.8,
+        "volume": 0.5
+      },
+      {
+        "name": "step/woodstep4",
+        "weight": 100,
+        "pitch": 1.2,
+        "volume": 0.5
+      },
+      {
+        "name": "step/woodstep5",
+        "weight": 100,
+        "pitch": 1.2,
+        "volume": 0.5
+      },
+      {
+        "name": "step/woodstep6",
+        "weight": 100,
+        "pitch": 1.2,
+        "volume": 0.5
+      }
+    ],
+    "replace": "true"
+  },
+  "block.wool.step": {
+    "sounds": [
+      {
+        "name": "step/clothstep1",
+        "weight": 100,
+        "volume": 5,
+        "pitch": 1
+      },
+      {
+        "name": "step/clothstep2",
+        "weight": 100,
+        "volume": 5,
+        "pitch": 1
+      },
+      {
+        "name": "step/clothstep3",
+        "weight": 100,
+        "volume": 5,
+        "pitch": 1
+      },
+      {
+        "name": "step/clothstep4",
+        "weight": 100,
+        "volume": 5,
+        "pitch": 1
+      },
+      {
+        "name": "step/clothstep5",
+        "weight": 100,
+        "volume": 5,
+        "pitch": 1
+      },
+      {
+        "name": "step/clothstep6",
+        "weight": 100,
+        "volume": 5,
+        "pitch": 1
+      },
+      {
+        "name": "step/clothstep1",
+        "weight": 100,
+        "volume": 5,
+        "pitch": 0.8
+      },
+      {
+        "name": "step/clothstep2",
+        "weight": 100,
+        "volume": 5,
+        "pitch": 0.8
+      },
+      {
+        "name": "step/clothstep3",
+        "weight": 100,
+        "volume": 5,
+        "pitch": 0.8
+      },
+      {
+        "name": "step/clothstep4",
+        "weight": 100,
+        "volume": 5,
+        "pitch": 1.2
+      },
+      {
+        "name": "step/clothstep5",
+        "weight": 100,
+        "volume": 5,
+        "pitch": 1.2
+      },
+      {
+        "name": "step/clothstep6",
+        "weight": 100,
+        "volume": 5,
+        "pitch": 1.2
+      }
+    ],
+    "replace": "true"
   }
 }
