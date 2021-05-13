@@ -14,5 +14,37 @@
         "stream": true
       }
     ]
+  },
+  "music.corridor": {
+    "sounds": [
+      {
+        "name": "extramusic:music/corridor",
+        "stream": true
+      }
+    ]
+  },
+  "music.scar": {
+    "sounds": [
+      {
+        "name": "extramusic:music/scar",
+        "stream": true
+      }
+    ]
+  },
+  "music.amonge": {
+    "sounds": [
+      {
+        "name": "extramusic:music/amonge",
+        "stream": true
+      }
+    ]
+  },
+  "music.drinkup": {
+    "sounds": [
+      {
+        "name": "extramusic:music/drinkup",
+        "stream": true
+      }
+    ]
   }
 }
