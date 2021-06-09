@@ -12,39 +12,38 @@
   "music.game": {
     "sounds": [
       {
-        "name": "extramusic:music/modular",
-        "stream": true,
-        "volume": 0.2
+        "name": "minecraft:music/game/water/shuniji",
+        "stream": true
       },
       {
-        "name": "minecraft:music/game/water/shuniji",
+        "name": "extramusic:music/modular",
         "stream": true,
-        "volume": 0.2
+        "volume": 0.6
       },
       {
         "name": "extramusic:music/field1",
         "stream": true,
-        "volume": 0.2
+        "volume": 1.0
       },
       {
         "name": "extramusic:music/field2",
         "stream": true,
-        "volume": 0.2
+        "volume": 1.0
       },
       {
         "name": "extramusic:music/field3",
         "stream": true,
-        "volume": 0.2
+        "volume": 0.9
       },
       {
         "name": "extramusic:music/field4",
         "stream": true,
-        "volume": 0.1
+        "volume": 0.6
       },
       {
         "name": "extramusic:music/cold1",
         "stream": true,
-        "volume": 0.2
+        "volume": 1.0
       }
     ]
   },
@@ -54,7 +53,7 @@
       {
         "name": "extramusic:music/final_boss",
         "stream": true,
-        "volume": 0.3
+        "volume": 0.4
       }
     ]
   },
@@ -251,43 +250,37 @@
       {
         "name": "step/grassstep1",
         "weight": 100,
-        "stream": false,
-        "volume": 1.5,
+        "volume": 1.0,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep2",
         "weight": 100,
-        "stream": false,
-        "volume": 1.5,
+        "volume": 1.0,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep3",
         "weight": 100,
-        "stream": false,
-        "volume": 1.5,
+        "volume": 1.0,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep4",
         "weight": 100,
-        "stream": false,
-        "volume": 1.5,
+        "volume": 1.0,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep5",
         "weight": 100,
-        "stream": false,
-        "volume": 1.5,
+        "volume": 1.0,
         "attenuation_distance": 8
       },
       {
         "name": "step/grassstep6",
         "weight": 100,
-        "stream": false,
-        "volume": 1.5,
+        "volume": 1.0,
         "attenuation_distance": 8
       }
     ],
