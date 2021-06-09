@@ -7,14 +7,6 @@
       }
     ]
   },
-  "music.shuniji": {
-    "sounds": [
-      {
-        "name": "extramusic:music/shuniji",
-        "stream": true
-      }
-    ]
-  },
   "music.corridor": {
     "sounds": [
       {
@@ -43,6 +35,122 @@
     "sounds": [
       {
         "name": "extramusic:music/drinkup",
+        "stream": true
+      }
+    ]
+  },
+  "music.field": {
+    "sounds": [
+      {
+        "name": "extramusic:music/field1",
+        "stream": true
+      },
+      {
+        "name": "extramusic:music/field2",
+        "stream": true
+      },
+      {
+        "name": "extramusic:music/field3",
+        "stream": true
+      },
+      {
+        "name": "extramusic:music/field4",
+        "stream": true
+      }
+    ]
+  },
+  "music.cold": {
+    "sounds": [
+      {
+        "name": "extramusic:music/cold1",
+        "stream": true
+      }
+    ]
+  },
+  "music.final_boss": {
+    "sounds": [
+      {
+        "name": "extramusic:music/final_boss",
+        "stream": true
+      }
+    ]
+  },
+  "music.hard_boss": {
+    "sounds": [
+      {
+        "name": "extramusic:music/hard_boss",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.gerudo": {
+    "sounds": [
+      {
+        "name": "extramusic:music/village/gerudo",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.gerudo_night": {
+    "sounds": [
+      {
+        "name": "extramusic:music/village/gerudo_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.hateno": {
+    "sounds": [
+      {
+        "name": "extramusic:music/village/hateno",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.hateno_night": {
+    "sounds": [
+      {
+        "name": "extramusic:music/village/hateno_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.kakariko": {
+    "sounds": [
+      {
+        "name": "extramusic:music/village/kakariko",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.lurelin_night": {
+    "sounds": [
+      {
+        "name": "extramusic:music/village/lurelin_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.rito_night": {
+    "sounds": [
+      {
+        "name": "extramusic:music/village/rito_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.selmie": {
+    "sounds": [
+      {
+        "name": "extramusic:music/village/selmie",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.tarrey": {
+    "sounds": [
+      {
+        "name": "extramusic:music/village/tarrey",
         "stream": true
       }
     ]

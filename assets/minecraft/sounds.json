@@ -17,7 +17,42 @@
         "volume": 0.2
       },
       {
-        "name": "extramusic:music/shuniji",
+        "name": "minecraft:music/game/water/shuniji",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "extramusic:music/field1",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "extramusic:music/field2",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "extramusic:music/field3",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "extramusic:music/field4",
+        "stream": true,
+        "volume": 0.1
+      },
+      {
+        "name": "extramusic:music/cold1",
+        "stream": true,
+        "volume": 0.2
+      }
+    ]
+  },
+  "music.dragon": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extramusic:music/final_boss",
         "stream": true,
         "volume": 0.3
       }
@@ -575,57 +610,57 @@
     "sounds": [
       {
         "name": "step/marble_walk1",
-        "volume": 1.5,
+        "volume": 2.0,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk10",
-        "volume": 1.5,
+        "volume": 2.0,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk11",
-        "volume": 1.5,
+        "volume": 2.0,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk2",
-        "volume": 1.5,
+        "volume": 2.0,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk3",
-        "volume": 1.5,
+        "volume": 2.0,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk4",
-        "volume": 1.5,
+        "volume": 2.0,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk5",
-        "volume": 1.5,
+        "volume": 2.0,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk6",
-        "volume": 1.5,
+        "volume": 2.0,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk7",
-        "volume": 1.5,
+        "volume": 2.0,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk8",
-        "volume": 1.5,
+        "volume": 2.0,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk9",
-        "volume": 1.5,
+        "volume": 2.0,
         "pitch": 0.5
       }
     ],
@@ -635,57 +670,57 @@
     "sounds": [
       {
         "name": "step/marble_walk1",
-        "volume": 0.7,
+        "volume": 1.0,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk10",
-        "volume": 0.7,
+        "volume": 1.0,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk11",
-        "volume": 0.7,
+        "volume": 1.0,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk2",
-        "volume": 0.7,
+        "volume": 1.0,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk3",
-        "volume": 0.7,
+        "volume": 1.0,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk4",
-        "volume": 0.7,
+        "volume": 1.0,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk5",
-        "volume": 0.7,
+        "volume": 1.0,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk6",
-        "volume": 0.7,
+        "volume": 1.0,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk7",
-        "volume": 0.7,
+        "volume": 1.0,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk8",
-        "volume": 0.7,
+        "volume": 1.0,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk9",
-        "volume": 0.7,
+        "volume": 1.0,
         "pitch": 0.7
       }
     ],
