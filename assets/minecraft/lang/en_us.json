@@ -1,0 +1,12 @@
+{
+  "soundCategory.record": "§bTown Music",
+  "soundCategory.ambient": "§bAmbience Sounds",
+  "soundCategory.music": "§bBackground Music",
+  "soundCategory.weather": "§7Weather",
+  "soundCategory.hostile": "§7Hostile Creatures",
+  "soundCategory.neutral": "§7Friendly Creatures",
+  "soundCategory.player": "§7Players",
+  "soundCategory.block": "§7Blocks",
+  "soundCategory.voice": "§7Voice/Speech",
+  "options.sounds": "§bMusic & Sounds..."
+}
