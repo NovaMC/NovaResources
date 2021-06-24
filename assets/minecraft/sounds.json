@@ -57,6 +57,32 @@
       }
     ]
   },
+  "entity.lightning_bolt.thunder": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/weather/thunder1"
+      },
+      {
+        "name": "ambient/weather/thunder2"
+      },
+      {
+        "name": "ambient/weather/thunder3"
+      },
+      {
+        "name": "ambient/weather/thunder4"
+      },
+      {
+        "name": "ambient/weather/thunder6"
+      },
+      {
+        "name": "ambient/weather/thunder12"
+      },
+      {
+        "name": "ambient/weather/thunder13"
+      }
+    ]
+  },
   "block.anvil.fall": {
     "sounds": [
       {
