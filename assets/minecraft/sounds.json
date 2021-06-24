@@ -51,9 +51,9 @@
     "replace": true,
     "sounds": [
       {
-        "name": "extramusic:music/final_boss",
+        "name": "music/game/end/boss",
         "stream": true,
-        "volume": 0.4
+        "volume": 8.0
       }
     ]
   },
