@@ -629,57 +629,57 @@
     "sounds": [
       {
         "name": "step/marble_walk1",
-        "volume": 2.0,
+        "volume": 1.5,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk10",
-        "volume": 2.0,
+        "volume": 1.5,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk11",
-        "volume": 2.0,
+        "volume": 1.5,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk2",
-        "volume": 2.0,
+        "volume": 1.5,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk3",
-        "volume": 2.0,
+        "volume": 1.5,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk4",
-        "volume": 2.0,
+        "volume": 1.5,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk5",
-        "volume": 2.0,
+        "volume": 1.5,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk6",
-        "volume": 2.0,
+        "volume": 1.5,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk7",
-        "volume": 2.0,
+        "volume": 1.5,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk8",
-        "volume": 2.0,
+        "volume": 1.5,
         "pitch": 0.5
       },
       {
         "name": "step/marble_walk9",
-        "volume": 2.0,
+        "volume": 1.5,
         "pitch": 0.5
       }
     ],
@@ -689,57 +689,57 @@
     "sounds": [
       {
         "name": "step/marble_walk1",
-        "volume": 1.0,
+        "volume": 0.6,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk10",
-        "volume": 1.0,
+        "volume": 0.6,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk11",
-        "volume": 1.0,
+        "volume": 0.6,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk2",
-        "volume": 1.0,
+        "volume": 0.6,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk3",
-        "volume": 1.0,
+        "volume": 0.6,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk4",
-        "volume": 1.0,
+        "volume": 0.6,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk5",
-        "volume": 1.0,
+        "volume": 0.6,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk6",
-        "volume": 1.0,
+        "volume": 0.6,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk7",
-        "volume": 1.0,
+        "volume": 0.6,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk8",
-        "volume": 1.0,
+        "volume": 0.6,
         "pitch": 0.7
       },
       {
         "name": "step/marble_walk9",
-        "volume": 1.0,
+        "volume": 0.6,
         "pitch": 0.7
       }
     ],
