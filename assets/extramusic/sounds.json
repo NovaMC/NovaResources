@@ -7,38 +7,6 @@
       }
     ]
   },
-  "music.corridor": {
-    "sounds": [
-      {
-        "name": "extramusic:music/corridor",
-        "stream": true
-      }
-    ]
-  },
-  "music.scar": {
-    "sounds": [
-      {
-        "name": "extramusic:music/scar",
-        "stream": true
-      }
-    ]
-  },
-  "music.amonge": {
-    "sounds": [
-      {
-        "name": "extramusic:music/amonge",
-        "stream": true
-      }
-    ]
-  },
-  "music.drinkup": {
-    "sounds": [
-      {
-        "name": "extramusic:music/drinkup",
-        "stream": true
-      }
-    ]
-  },
   "music.field": {
     "sounds": [
       {
@@ -67,30 +35,6 @@
       }
     ]
   },
-  "music.final_boss": {
-    "sounds": [
-      {
-        "name": "extramusic:music/final_boss",
-        "stream": true
-      }
-    ]
-  },
-  "music.hard_boss": {
-    "sounds": [
-      {
-        "name": "extramusic:music/hard_boss",
-        "stream": true
-      }
-    ]
-  },
-  "music.village.gerudo": {
-    "sounds": [
-      {
-        "name": "extramusic:music/village/gerudo",
-        "stream": true
-      }
-    ]
-  },
   "music.village.gerudo_night": {
     "sounds": [
       {
@@ -115,14 +59,6 @@
       }
     ]
   },
-  "music.village.kakariko": {
-    "sounds": [
-      {
-        "name": "extramusic:music/village/kakariko",
-        "stream": true
-      }
-    ]
-  },
   "music.village.lurelin_night": {
     "sounds": [
       {
@@ -143,14 +79,6 @@
     "sounds": [
       {
         "name": "extramusic:music/village/selmie",
-        "stream": true
-      }
-    ]
-  },
-  "music.village.tarrey": {
-    "sounds": [
-      {
-        "name": "extramusic:music/village/tarrey",
         "stream": true
       }
     ]
