@@ -1,0 +1,40 @@
+{
+  "providers": [
+    {
+      "ascent": 7,
+      "chars": [
+        "ꢫ"
+      ],
+      "file": "custom/ui/platform_bedrock.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꢰ"
+      ],
+      "file": "custom/ui/platform_java.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꢩ"
+      ],
+      "file": "custom/ui/platform_fabric.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꢭ"
+      ],
+      "file": "custom/ui/platform_forge.png",
+      "height": 7,
+      "type": "bitmap"
+    }
+  ]
+}
