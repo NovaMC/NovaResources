@@ -12,6 +12,33 @@
     {
       "ascent": 7,
       "chars": [
+        "꤁"
+      ],
+      "file": "custom/ui/platform_switch.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "꤅"
+      ],
+      "file": "custom/ui/platform_xbox.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "꤉"
+      ],
+      "file": "custom/ui/platform_playstation.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
         "ꢰ"
       ],
       "file": "custom/ui/platform_java.png",
