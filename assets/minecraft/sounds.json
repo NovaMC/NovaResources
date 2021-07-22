@@ -141,6 +141,14 @@
       }
     ]
   },
+  "music_disc.modular": {
+    "sounds": [
+      {
+        "name": "extra/mono/modular",
+        "stream": true
+      }
+    ]
+  },
   "entity.lightning_bolt.thunder": {
     "replace": true,
     "sounds": [
