@@ -1,0 +1,13 @@
+pack_directory = "C:/Users/fireb/AppData/Roaming/.minecraft/packs/Enhancements/server-resource-packs/4bd88bd82ab5ccab496975f150ea1de0bfa109d5~"
+zip_spec_conformance_level = "balanced"
+
+['**/*.png']
+maximum_width_and_height = 512
+
+['assets/minecraft/sounds/**/*?.ogg']
+minimum_bitrate = 40000
+maximum_bitrate = 80000
+
+['assets/minecraft/sounds/extra/**/*?.ogg']
+minimum_bitrate = 48000
+maximum_bitrate = 96000
