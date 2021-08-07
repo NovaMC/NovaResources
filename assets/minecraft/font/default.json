@@ -89,6 +89,51 @@
       "file": "custom/plate/rank_staff.png",
       "height": 7,
       "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "闫"
+      ],
+      "file": "custom/plate/rank_elite.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "阎"
+      ],
+      "file": "custom/plate/rank_pro.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "阚"
+      ],
+      "file": "custom/plate/rank_nitro.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "阕"
+      ],
+      "file": "custom/plate/rank_player.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "曳"
+      ],
+      "file": "custom/plate/status_afk.png",
+      "height": 7,
+      "type": "bitmap"
     }
   ]
 }
