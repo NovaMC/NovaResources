@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "music.menu": {
     "replace": true,
     "sounds": [
@@ -97,6 +98,14 @@
     "sounds": [
       {
         "name": "extra/village/gerudo_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.tavern_slow": {
+    "sounds": [
+      {
+        "name": "extra/village/tavern_slow",
         "stream": true
       }
     ]
