@@ -1,4 +1,20 @@
 {
+  "music.village.tavern_slow": {
+    "sounds": [
+      {
+        "name": "extra/village/tavern_slow",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.hateno": {
+    "sounds": [
+      {
+        "name": "extra/village/hateno",
+        "stream": true
+      }
+    ]
+  },
   "music.village.hateno_night": {
     "sounds": [
       {
