@@ -31,6 +31,14 @@
       }
     ]
   },
+  "music.village.wizard": {
+    "sounds": [
+      {
+        "name": "extra/village/wizard",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.modular": {
     "sounds": [
       {
