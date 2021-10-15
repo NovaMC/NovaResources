@@ -1,0 +1,18 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "§bResources for Nova Network.",
+    "name": "NovaResources",
+    "uuid": "00f7a887-487d-4800-9c25-d12c1d448c09",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 2, 6]
+  },
+  "modules": [
+    {
+      "description": "§bResources for Nova Network.",
+      "type": "resources",
+      "uuid": "2491a907-f53f-40c2-a762-057de9252246",
+      "version": [0, 0, 1]
+    }
+  ]
+}

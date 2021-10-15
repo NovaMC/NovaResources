@@ -1,0 +1,47 @@
+{
+  "music.village.tavern_slow": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/village/tavern_slow",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.hateno": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/village/hateno",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.hateno_night": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/village/hateno_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.lurelin_night": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/village/lurelin_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.wizard": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/village/wizard",
+        "stream": true
+      }
+    ]
+  }
+}
