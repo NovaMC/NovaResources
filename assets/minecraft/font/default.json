@@ -3,69 +3,6 @@
     {
       "ascent": 7,
       "chars": [
-        "忠"
-      ],
-      "file": "custom/platform/platform_bedrock.png",
-      "height": 7,
-      "type": "bitmap"
-    },
-    {
-      "ascent": 7,
-      "chars": [
-        "背"
-      ],
-      "file": "custom/platform/platform_switch.png",
-      "height": 7,
-      "type": "bitmap"
-    },
-    {
-      "ascent": 7,
-      "chars": [
-        "袍"
-      ],
-      "file": "custom/platform/platform_xbox.png",
-      "height": 7,
-      "type": "bitmap"
-    },
-    {
-      "ascent": 7,
-      "chars": [
-        "冀"
-      ],
-      "file": "custom/platform/platform_playstation.png",
-      "height": 7,
-      "type": "bitmap"
-    },
-    {
-      "ascent": 7,
-      "chars": [
-        "聿"
-      ],
-      "file": "custom/platform/platform_vanilla.png",
-      "height": 7,
-      "type": "bitmap"
-    },
-    {
-      "ascent": 7,
-      "chars": [
-        "裱"
-      ],
-      "file": "custom/platform/platform_fabric.png",
-      "height": 7,
-      "type": "bitmap"
-    },
-    {
-      "ascent": 7,
-      "chars": [
-        "袆"
-      ],
-      "file": "custom/platform/platform_forge.png",
-      "height": 7,
-      "type": "bitmap"
-    },
-    {
-      "ascent": 7,
-      "chars": [
         "闰"
       ],
       "file": "custom/plate/rank_boss.png",
@@ -133,6 +70,36 @@
       ],
       "file": "custom/plate/status_afk.png",
       "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "电"
+      ],
+      "file": "custom/plate/status_voice.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "聿裱袆忠袍背冀"
+      ],
+      "file": "custom/icon/platforms.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "颥",
+        "雳",
+        "雩",
+        "震"
+      ],
+      "file": "custom/icon/chat_bubbles.png",
+      "height": 8,
       "type": "bitmap"
     }
   ]

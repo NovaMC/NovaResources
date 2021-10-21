@@ -1,4 +1,7 @@
 {
+  "menu.returnToGame": "Return to Nova Network",
+  "menu.shareToLan": "§f震 §b/discord",
+  "menu.disconnect": "§bSee You Soon!",
   "soundCategory.record": "§bJukebox/Town Music",
   "soundCategory.music": "§bGame Music"
 }
