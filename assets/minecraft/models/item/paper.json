@@ -5,6 +5,7 @@
   },
   "overrides": [
         { "predicate": {"custom_model_data": 101 }, "model": "custom/gui/blank_button" },
-        { "predicate": {"custom_model_data": 102 }, "model": "custom/gui/back_button" }
+        { "predicate": {"custom_model_data": 102 }, "model": "custom/gui/back_button" },
+        { "predicate": {"custom_model_data": 201 }, "model": "custom/item/phone" }
     ]
 }
