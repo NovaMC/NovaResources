@@ -101,6 +101,33 @@
       "file": "custom/icon/chat_bubbles.png",
       "height": 8,
       "type": "bitmap"
+    },
+	  {
+      "ascent": -32768,
+      "chars": [
+        "西"
+      ],
+      "file": "custom/gui/space_split.png",
+      "height": -10,
+      "type": "bitmap"
+    },
+	  {
+      "ascent": 19,
+      "chars": [
+        "酉"
+      ],
+      "file": "custom/gui/game_menu.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 19,
+      "chars": [
+        "于"
+      ],
+      "file": "custom/gui/settings_menu.png",
+      "height": 256,
+      "type": "bitmap"
     }
   ]
 }
