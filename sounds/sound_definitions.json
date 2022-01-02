@@ -35,6 +35,24 @@
       }
     ]
   },
+  "music.village.rito_night": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/village/rito_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.selmie": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/village/selmie",
+        "stream": true
+      }
+    ]
+  },
   "music.village.wizard": {
     "category": "music",
     "sounds": [
