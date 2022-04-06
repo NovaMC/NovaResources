@@ -102,7 +102,7 @@
       "height": 8,
       "type": "bitmap"
     },
-	  {
+	{
       "ascent": -32768,
       "chars": [
         "西"
@@ -111,7 +111,16 @@
       "height": -10,
       "type": "bitmap"
     },
-	  {
+    {
+      "ascent": 128,
+      "chars": [
+        "盂"
+      ],
+      "file": "custom/gui/black_square.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+	{
       "ascent": 19,
       "chars": [
         "酉"
