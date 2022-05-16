@@ -137,6 +137,33 @@
       "file": "custom/gui/settings_menu.png",
       "height": 256,
       "type": "bitmap"
+    },
+    {
+      "ascent": -15,
+      "height": 8,
+      "chars": [
+        "ꢑꢂꢃꢄꢅꢆꢇꢈꢉꢊꢋ"
+      ],
+      "file": "custom/gui/hud_numbers.png",
+      "type": "bitmap"
+    },
+    {
+      "ascent": -13,
+      "height": 11,
+      "chars": [
+        "ꢌꢍꢎ"
+      ],
+      "file": "custom/gui/hud_thermometer.png",
+      "type": "bitmap"
+    },
+    {
+      "ascent": -15,
+      "height": 8,
+      "chars": [
+        "ꢏꢐ"
+      ],
+      "file": "custom/gui/hud_degrees.png",
+      "type": "bitmap"
     }
   ]
 }
