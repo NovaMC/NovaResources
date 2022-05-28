@@ -1,4 +1,12 @@
 {
+  "music.village.tavern_bob": {
+    "sounds": [
+      {
+        "name": "extra/village/tavern_bob",
+        "stream": true
+      }
+    ]
+  },
   "music.village.tavern_slow": {
     "sounds": [
       {
