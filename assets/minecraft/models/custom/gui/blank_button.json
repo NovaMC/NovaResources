@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "custom/gui/space_split"
+    "layer0": "custom/ui/space_split"
   }
 }

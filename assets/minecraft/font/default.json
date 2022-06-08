@@ -3,166 +3,202 @@
     {
       "ascent": 7,
       "chars": [
-        "闰"
+        "𐂀"
       ],
-      "file": "custom/plate/rank_boss.png",
+      "file": "custom/ui/tag/rank_admin.png",
       "height": 7,
       "type": "bitmap"
     },
     {
       "ascent": 7,
       "chars": [
-        "闬"
+        "𐂁"
       ],
-      "file": "custom/plate/rank_admin.png",
+      "file": "custom/ui/tag/rank_boss.png",
       "height": 7,
       "type": "bitmap"
     },
     {
       "ascent": 7,
       "chars": [
-        "韭"
+        "𐂂"
       ],
-      "file": "custom/plate/rank_staff.png",
+      "file": "custom/ui/tag/rank_builder.png",
       "height": 7,
       "type": "bitmap"
     },
     {
       "ascent": 7,
       "chars": [
-        "闫"
+        "𐂃"
       ],
-      "file": "custom/plate/rank_elite.png",
+      "file": "custom/ui/tag/rank_elite.png",
       "height": 7,
       "type": "bitmap"
     },
     {
       "ascent": 7,
       "chars": [
-        "阎"
+        "𐂄"
       ],
-      "file": "custom/plate/rank_pro.png",
+      "file": "custom/ui/tag/rank_mod.png",
       "height": 7,
       "type": "bitmap"
     },
     {
       "ascent": 7,
       "chars": [
-        "阚"
+        "𐂅"
       ],
-      "file": "custom/plate/rank_nitro.png",
+      "file": "custom/ui/tag/rank_nitro.png",
       "height": 7,
       "type": "bitmap"
     },
     {
       "ascent": 7,
       "chars": [
-        "阕"
+        "𐂆"
       ],
-      "file": "custom/plate/rank_player.png",
+      "file": "custom/ui/tag/rank_owner.png",
       "height": 7,
       "type": "bitmap"
     },
     {
       "ascent": 7,
       "chars": [
-        "曳"
+        "𐂇"
       ],
-      "file": "custom/plate/status_afk.png",
+      "file": "custom/ui/tag/rank_player.png",
       "height": 7,
       "type": "bitmap"
     },
     {
       "ascent": 7,
       "chars": [
-        "电"
+        "𐂈"
       ],
-      "file": "custom/plate/status_voice.png",
+      "file": "custom/ui/tag/rank_pro.png",
       "height": 7,
       "type": "bitmap"
     },
     {
       "ascent": 7,
       "chars": [
-        "聿裱袆忠袍背冀"
+        "𐀀"
       ],
-      "file": "custom/icon/platforms.png",
+      "file": "custom/ui/tag/tag_afk.png",
       "height": 7,
       "type": "bitmap"
     },
     {
       "ascent": 7,
       "chars": [
-        "颥",
-        "雳",
-        "雩",
-        "震"
+        "𐀁"
       ],
-      "file": "custom/icon/chat_bubbles.png",
+      "file": "custom/ui/tag/tag_chatroom.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "𐀂"
+      ],
+      "file": "custom/ui/tag/tag_staff.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "𐀃"
+      ],
+      "file": "custom/ui/tag/tag_voice.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 19,
+      "chars": [
+        "𐄀"
+      ],
+      "file": "custom/ui/menu/game_menu.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 19,
+      "chars": [
+        "𐄁"
+      ],
+      "file": "custom/ui/menu/settings_menu.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -16,
       "height": 8,
+      "chars": [
+        "𐅛𐅜"
+      ],
+      "file": "custom/ui/hud/hud_degrees.png",
+      "type": "bitmap"
+    },
+    {
+      "ascent": -16,
+      "height": 8,
+      "chars": [
+        "𐅐𐅑𐅒𐅓𐅔𐅕𐅖𐅗𐅘𐅙𐅚"
+      ],
+      "file": "custom/ui/hud/hud_numbers.png",
+      "type": "bitmap"
+    },
+    {
+      "ascent": -14,
+      "height": 11,
+      "chars": [
+        "𐅀𐅁𐅂𐅃𐅄𐅅"
+      ],
+      "file": "custom/ui/hud/hud_thermometer.png",
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "𐔰",
+        "𐔱",
+        "𐔲",
+        "𐔳"
+      ],
+      "file": "custom/ui/chat_bubbles.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "𐔴𐔵𐔶𐔷𐔸𐔹𐔺"
+      ],
+      "file": "custom/ui/platforms.png",
+      "height": 7,
       "type": "bitmap"
     },
 	{
       "ascent": -32768,
       "chars": [
-        "西"
+        "𐇐"
       ],
-      "file": "custom/gui/space_split.png",
+      "file": "custom/ui/space_split.png",
       "height": -10,
       "type": "bitmap"
     },
     {
       "ascent": 128,
       "chars": [
-        "盂"
+        "𐇰"
       ],
-      "file": "custom/gui/black_square.png",
+      "file": "custom/ui/black_square.png",
       "height": 256,
-      "type": "bitmap"
-    },
-	{
-      "ascent": 19,
-      "chars": [
-        "酉"
-      ],
-      "file": "custom/gui/game_menu.png",
-      "height": 256,
-      "type": "bitmap"
-    },
-    {
-      "ascent": 19,
-      "chars": [
-        "于"
-      ],
-      "file": "custom/gui/settings_menu.png",
-      "height": 256,
-      "type": "bitmap"
-    },
-    {
-      "ascent": -15,
-      "height": 8,
-      "chars": [
-        "ꢑꢂꢃꢄꢅꢆꢇꢈꢉꢊꢋ"
-      ],
-      "file": "custom/gui/hud_numbers.png",
-      "type": "bitmap"
-    },
-    {
-      "ascent": -13,
-      "height": 11,
-      "chars": [
-        "ꢌꢍꢎ"
-      ],
-      "file": "custom/gui/hud_thermometer.png",
-      "type": "bitmap"
-    },
-    {
-      "ascent": -15,
-      "height": 8,
-      "chars": [
-        "ꢏꢐ"
-      ],
-      "file": "custom/gui/hud_degrees.png",
       "type": "bitmap"
     }
   ]

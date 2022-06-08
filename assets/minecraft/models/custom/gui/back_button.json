@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "custom/gui/back_button"
+    "layer0": "custom/ui/back_button"
   }
 }
