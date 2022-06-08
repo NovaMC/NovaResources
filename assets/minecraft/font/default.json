@@ -139,7 +139,7 @@
       "ascent": -16,
       "height": 8,
       "chars": [
-        "𐅛𐅜"
+        "𑖀𑖁"
       ],
       "file": "custom/ui/hud/hud_degrees.png",
       "type": "bitmap"
@@ -148,7 +148,7 @@
       "ascent": -16,
       "height": 8,
       "chars": [
-        "𐅐𐅑𐅒𐅓𐅔𐅕𐅖𐅗𐅘𐅙𐅚"
+        "ꢑꢂꢃꢄꢅꢆꢇꢈꢉꢊꢋ"
       ],
       "file": "custom/ui/hud/hud_numbers.png",
       "type": "bitmap"
@@ -157,7 +157,7 @@
       "ascent": -13,
       "height": 11,
       "chars": [
-        "𐅀𐅁𐅂𐅃𐅄𐅅"
+        "𐘀𐘁𐘂𐘃𐘄𐘅"
       ],
       "file": "custom/ui/hud/hud_thermometer.png",
       "type": "bitmap"
