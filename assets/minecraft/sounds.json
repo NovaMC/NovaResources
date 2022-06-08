@@ -1,99 +1,51 @@
 {
+  "sound_effect.chatroom_exit": {
+    "sounds": [{ "name": "custom/chatroom_exit" }]
+  },
+  "sound_effect.chatroom_join": {
+    "sounds": [{ "name": "custom/chatroom_join" }]
+  },
+  "sound_effect.launch": {
+    "sounds": [{ "name": "custom/launch" }]
+  },
+  "sound_effect.launch_mono": {
+    "sounds": [{ "name": "custom/mono/launch" }]
+  },
   "music.village.gerudo_night": {
-    "sounds": [
-      {
-        "name": "custom/music/village/gerudo_night",
-        "stream": true
-      }
-    ]
-  },
-  "music.village.tavern_bob": {
-    "sounds": [
-      {
-        "name": "custom/music/village/tavern_bob",
-        "stream": true
-      }
-    ]
-  },
-  "music.village.tavern_slow": {
-    "sounds": [
-      {
-        "name": "custom/music/village/tavern_slow",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "custom/music/village/gerudo_night", "stream": true }]
   },
   "music.village.hateno": {
-    "sounds": [
-      {
-        "name": "custom/music/village/hateno",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "custom/music/village/hateno", "stream": true }]
   },
   "music.village.hateno_night": {
-    "sounds": [
-      {
-        "name": "custom/music/village/hateno_night",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "custom/music/village/hateno_night", "stream": true }]
   },
   "music.village.lurelin_night": {
-    "sounds": [
-      {
-        "name": "custom/music/village/lurelin_night",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "custom/music/village/lurelin_night", "stream": true }]
   },
   "music.village.rito_night": {
-    "sounds": [
-      {
-        "name": "custom/music/village/rito_night",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "custom/music/village/rito_night", "stream": true }]
   },
   "music.village.selmie": {
-    "sounds": [
-      {
-        "name": "custom/music/village/selmie",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "custom/music/village/selmie", "stream": true }]
+  },
+  "music.village.tavern_bob": {
+    "sounds": [{ "name": "custom/music/village/tavern_bob", "stream": true }]
+  },
+  "music.village.tavern_slow": {
+    "sounds": [{ "name": "custom/music/village/tavern_slow", "stream": true }]
   },
   "music.village.wizard": {
-    "sounds": [
-      {
-        "name": "custom/music/village/wizard",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "custom/music/village/wizard", "stream": true }]
   },
   "music_disc.modular": {
-    "sounds": [
-      {
-        "name": "custom/mono/music/modular",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "custom/mono/music/modular", "stream": true }]
   },
   "music.modular": {
-    "sounds": [
-      {
-        "name": "custom/music/modular",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "custom/music/modular", "stream": true }]
   },
   "music.cold": {
-    "sounds": [
-      {
-        "name": "custom/music/cold1",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "custom/music/cold1", "stream": true }]
   },
   "music.field": {
     "sounds": [
