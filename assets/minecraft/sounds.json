@@ -1,49 +1,117 @@
 {
-  "music.menu": {
-    "replace": true,
+  "music.village.gerudo_night": {
     "sounds": [
       {
-        "name": "extra/modular",
-        "stream": true,
-        "volume": 0.8
+        "name": "custom/music/village/gerudo_night",
+        "stream": true
       }
     ]
   },
-  "music.game": {
+  "music.village.tavern_bob": {
     "sounds": [
       {
-        "name": "music/game/water/shuniji",
+        "name": "custom/music/village/tavern_bob",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.tavern_slow": {
+    "sounds": [
+      {
+        "name": "custom/music/village/tavern_slow",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.hateno": {
+    "sounds": [
+      {
+        "name": "custom/music/village/hateno",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.hateno_night": {
+    "sounds": [
+      {
+        "name": "custom/music/village/hateno_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.lurelin_night": {
+    "sounds": [
+      {
+        "name": "custom/music/village/lurelin_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.rito_night": {
+    "sounds": [
+      {
+        "name": "custom/music/village/rito_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.selmie": {
+    "sounds": [
+      {
+        "name": "custom/music/village/selmie",
+        "stream": true
+      }
+    ]
+  },
+  "music.village.wizard": {
+    "sounds": [
+      {
+        "name": "custom/music/village/wizard",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.modular": {
+    "sounds": [
+      {
+        "name": "custom/mono/music/modular",
+        "stream": true
+      }
+    ]
+  },
+  "music.modular": {
+    "sounds": [
+      {
+        "name": "custom/music/modular",
+        "stream": true
+      }
+    ]
+  },
+  "music.cold": {
+    "sounds": [
+      {
+        "name": "custom/music/cold1",
+        "stream": true
+      }
+    ]
+  },
+  "music.field": {
+    "sounds": [
+      {
+        "name": "custom/music/field1",
         "stream": true
       },
       {
-        "name": "extra/modular",
-        "stream": true,
-        "volume": 0.6
+        "name": "custom/music/field2",
+        "stream": true
       },
       {
-        "name": "extra/field1",
-        "stream": true,
-        "volume": 1.0
+        "name": "custom/music/field3",
+        "stream": true
       },
       {
-        "name": "extra/field2",
-        "stream": true,
-        "volume": 1.0
-      },
-      {
-        "name": "extra/field3",
-        "stream": true,
-        "volume": 0.9
-      },
-      {
-        "name": "extra/field4",
-        "stream": true,
-        "volume": 0.6
-      },
-      {
-        "name": "extra/cold1",
-        "stream": true,
-        "volume": 1.0
+        "name": "custom/music/field4",
+        "stream": true
       }
     ]
   },
@@ -57,119 +125,41 @@
       }
     ]
   },
-  "music.modular": {
+  "music.game": {
     "sounds": [
       {
-        "name": "extra/modular",
-        "stream": true
-      }
-    ]
-  },
-  "music.field": {
-    "sounds": [
-      {
-        "name": "extra/field1",
+        "name": "music/game/water/shuniji",
         "stream": true
       },
       {
-        "name": "extra/field2",
-        "stream": true
+        "name": "custom/music/modular",
+        "stream": true,
+        "volume": 0.6
       },
       {
-        "name": "extra/field3",
-        "stream": true
+        "name": "custom/music/field1",
+        "stream": true,
+        "volume": 1.0
       },
       {
-        "name": "extra/field4",
-        "stream": true
-      }
-    ]
-  },
-  "music.cold": {
-    "sounds": [
+        "name": "custom/music/field2",
+        "stream": true,
+        "volume": 1.0
+      },
       {
-        "name": "extra/cold1",
-        "stream": true
-      }
-    ]
-  },
-  "music.village.gerudo_night": {
-    "sounds": [
+        "name": "custom/music/field3",
+        "stream": true,
+        "volume": 0.9
+      },
       {
-        "name": "extra/village/gerudo_night",
-        "stream": true
-      }
-    ]
-  },
-  "music.village.tavern_bob": {
-    "sounds": [
+        "name": "custom/music/field4",
+        "stream": true,
+        "volume": 0.6
+      },
       {
-        "name": "extra/village/tavern_bob",
-        "stream": true
-      }
-    ]
-  },
-  "music.village.tavern_slow": {
-    "sounds": [
-      {
-        "name": "extra/village/tavern_slow",
-        "stream": true
-      }
-    ]
-  },
-  "music.village.hateno": {
-    "sounds": [
-      {
-        "name": "extra/village/hateno",
-        "stream": true
-      }
-    ]
-  },
-  "music.village.hateno_night": {
-    "sounds": [
-      {
-        "name": "extra/village/hateno_night",
-        "stream": true
-      }
-    ]
-  },
-  "music.village.lurelin_night": {
-    "sounds": [
-      {
-        "name": "extra/village/lurelin_night",
-        "stream": true
-      }
-    ]
-  },
-  "music.village.rito_night": {
-    "sounds": [
-      {
-        "name": "extra/village/rito_night",
-        "stream": true
-      }
-    ]
-  },
-  "music.village.selmie": {
-    "sounds": [
-      {
-        "name": "extra/village/selmie",
-        "stream": true
-      }
-    ]
-  },
-  "music.village.wizard": {
-    "sounds": [
-      {
-        "name": "extra/village/wizard",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.modular": {
-    "sounds": [
-      {
-        "name": "extra/mono/modular",
-        "stream": true
+        "name": "custom/music/cold1",
+        "stream": true,
+        "volume": 1.0
       }
     ]
   },
