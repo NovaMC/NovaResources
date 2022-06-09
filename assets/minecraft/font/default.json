@@ -193,6 +193,51 @@
       "type": "bitmap"
     },
     {
+      "ascent": -32768,
+      "chars": [
+        "ꣀ"
+      ],
+      "file": "custom/ui/space_nosplit.png",
+      "height": 1,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -32768,
+      "chars": [
+        "ꣁ"
+      ],
+      "file": "custom/ui/space_nosplit.png",
+      "height": 2,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -32768,
+      "chars": [
+        "ꣂ"
+      ],
+      "file": "custom/ui/space_nosplit.png",
+      "height": 3,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -32768,
+      "chars": [
+        "ꣃ"
+      ],
+      "file": "custom/ui/space_nosplit.png",
+      "height": 4,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -32768,
+      "chars": [
+        "꣄"
+      ],
+      "file": "custom/ui/space_nosplit.png",
+      "height": 5,
+      "type": "bitmap"
+    },
+    {
       "ascent": 128,
       "chars": [
         "𐇰"
