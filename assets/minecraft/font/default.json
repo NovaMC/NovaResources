@@ -91,6 +91,15 @@
       "type": "bitmap"
     },
     {
+      "ascent": 3,
+      "chars": [
+        "𐀄"
+      ],
+      "file": "custom/ui/tag/tag_chatroom.png",
+      "height": 5,
+      "type": "bitmap"
+    },
+    {
       "ascent": 7,
       "chars": [
         "𐀁"
