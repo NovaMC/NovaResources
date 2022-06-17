@@ -1,11 +1,11 @@
 {
   "sound_effect.chatroom_exit": {
     "category": "ui",
-    "sounds": [{ "name": "sounds/custom/chatroom_exit", "volume" : 0.6, "is3D" : false }]
+    "sounds": [{ "name": "sounds/custom/chatroom_exit", "volume" : 0.65, "is3D" : false }]
   },
   "sound_effect.chatroom_join": {
     "category": "ui",
-    "sounds": [{ "name": "sounds/custom/chatroom_join", "volume" : 0.6, "is3D" : false }]
+    "sounds": [{ "name": "sounds/custom/chatroom_join", "volume" : 0.65, "is3D" : false }]
   },
   "sound_effect.launch": {
     "category": "block",
@@ -13,39 +13,39 @@
   },
   "music.village.gerudo_night": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/gerudo_night", "volume" : 0.4, "stream": true, "is3D" : false }]
+    "sounds": [{ "name": "sounds/custom/music/village/gerudo_night", "volume" : 0.15, "stream": true, "is3D" : false }]
   },
   "music.village.hateno": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/hateno", "volume" : 0.4, "stream": true, "is3D" : false }]
+    "sounds": [{ "name": "sounds/custom/music/village/hateno", "volume" : 0.15, "stream": true, "is3D" : false }]
   },
   "music.village.hateno_night": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/hateno_night", "volume" : 0.4, "stream": true, "is3D" : false }]
+    "sounds": [{ "name": "sounds/custom/music/village/hateno_night", "volume" : 0.15, "stream": true, "is3D" : false }]
   },
   "music.village.lurelin_night": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/lurelin_night", "volume" : 0.4, "stream": true, "is3D" : false }]
+    "sounds": [{ "name": "sounds/custom/music/village/lurelin_night", "volume" : 0.15, "stream": true, "is3D" : false }]
   },
   "music.village.rito_night": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/rito_night", "volume" : 0.4, "stream": true, "is3D" : false }]
+    "sounds": [{ "name": "sounds/custom/music/village/rito_night", "volume" : 0.15, "stream": true, "is3D" : false }]
   },
   "music.village.selmie": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/selmie", "volume" : 0.4, "stream": true, "is3D" : false }]
+    "sounds": [{ "name": "sounds/custom/music/village/selmie", "volume" : 0.15, "stream": true, "is3D" : false }]
   },
   "music.village.tavern_bob": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/tavern_bob", "volume" : 0.4, "stream": true, "is3D" : false }]
+    "sounds": [{ "name": "sounds/custom/music/village/tavern_bob", "volume" : 0.15, "stream": true, "is3D" : false }]
   },
   "music.village.tavern_slow": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/tavern_slow", "volume" : 0.4, "stream": true, "is3D" : false }]
+    "sounds": [{ "name": "sounds/custom/music/village/tavern_slow", "volume" : 0.15, "stream": true, "is3D" : false }]
   },
   "music.village.wizard": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/wizard", "volume" : 0.4, "stream": true, "is3D" : false }]
+    "sounds": [{ "name": "sounds/custom/music/village/wizard", "volume" : 0.15, "stream": true, "is3D" : false }]
   },
   "music_disc.modular": {
     "category": "record",
@@ -53,7 +53,7 @@
   },
   "music.modular": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/modular", "stream": true, "is3D" : false }]
+    "sounds": [{ "name": "sounds/custom/music/modular", "volume" : 0.15, "stream": true, "is3D" : false }]
   },
   "music.cold": {
     "category": "music",
@@ -131,31 +131,31 @@
     "sounds" : [
       {
         "load_on_low_memory" : true,
-        "volume" : 0.6,
+        "volume" : 0.75,
         "name" : "sounds/ambient/weather/thunder1"
       },
       {
-        "volume" : 0.6,
+        "volume" : 0.75,
         "name" : "sounds/ambient/weather/thunder2"
       },
       {
-        "volume" : 0.6,
+        "volume" : 0.75,
         "name" : "sounds/ambient/weather/thunder3"
       },
       {
-        "volume" : 0.6,
+        "volume" : 0.75,
         "name" : "sounds/ambient/weather/thunder4"
       },
       {
-        "volume" : 0.6,
+        "volume" : 0.75,
         "name" : "sounds/ambient/weather/thunder6"
       },
       {
-        "volume" : 0.6,
+        "volume" : 0.75,
         "name" : "sounds/ambient/weather/thunder12"
       },
       {
-        "volume" : 0.6,
+        "volume" : 0.75,
         "name" : "sounds/ambient/weather/thunder13"
       }
     ]
