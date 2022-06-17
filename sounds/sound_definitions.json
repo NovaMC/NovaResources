@@ -1,74 +1,185 @@
 {
-  "music.village.tavern_bob": {
-    "category": "music",
-    "sounds": [
-      {
-        "name": "sounds/music/village/tavern_bob",
-        "stream": true
-      }
-    ]
+  "sound_effect.chatroom_exit": {
+    "category": "ui",
+    "sounds": [{ "name": "sounds/custom/chatroom_exit", "volume" : 0.6, "is3D" : false }]
   },
-  "music.village.tavern_slow": {
+  "sound_effect.chatroom_join": {
+    "category": "ui",
+    "sounds": [{ "name": "sounds/custom/chatroom_join", "volume" : 0.6, "is3D" : false }]
+  },
+  "sound_effect.launch": {
+    "category": "block",
+    "sounds": [{ "name": "sounds/custom/launch", "volume" : 0.6, "is3D" : false }]
+  },
+  "music.village.gerudo_night": {
     "category": "music",
-    "sounds": [
-      {
-        "name": "sounds/music/village/tavern_slow",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "sounds/custom/music/village/gerudo_night", "volume" : 0.4, "stream": true, "is3D" : false }]
   },
   "music.village.hateno": {
     "category": "music",
-    "sounds": [
-      {
-        "name": "sounds/music/village/hateno",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "sounds/custom/music/village/hateno", "volume" : 0.4, "stream": true, "is3D" : false }]
   },
   "music.village.hateno_night": {
     "category": "music",
-    "sounds": [
-      {
-        "name": "sounds/music/village/hateno_night",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "sounds/custom/music/village/hateno_night", "volume" : 0.4, "stream": true, "is3D" : false }]
   },
   "music.village.lurelin_night": {
     "category": "music",
-    "sounds": [
-      {
-        "name": "sounds/music/village/lurelin_night",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "sounds/custom/music/village/lurelin_night", "volume" : 0.4, "stream": true, "is3D" : false }]
   },
   "music.village.rito_night": {
     "category": "music",
-    "sounds": [
-      {
-        "name": "sounds/music/village/rito_night",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "sounds/custom/music/village/rito_night", "volume" : 0.4, "stream": true, "is3D" : false }]
   },
   "music.village.selmie": {
     "category": "music",
+    "sounds": [{ "name": "sounds/custom/music/village/selmie", "volume" : 0.4, "stream": true, "is3D" : false }]
+  },
+  "music.village.tavern_bob": {
+    "category": "music",
+    "sounds": [{ "name": "sounds/custom/music/village/tavern_bob", "volume" : 0.4, "stream": true, "is3D" : false }]
+  },
+  "music.village.tavern_slow": {
+    "category": "music",
+    "sounds": [{ "name": "sounds/custom/music/village/tavern_slow", "volume" : 0.4, "stream": true, "is3D" : false }]
+  },
+  "music.village.wizard": {
+    "category": "music",
+    "sounds": [{ "name": "sounds/custom/music/village/wizard", "volume" : 0.4, "stream": true, "is3D" : false }]
+  },
+  "music_disc.modular": {
+    "category": "record",
+    "sounds": [{ "name": "sounds/custom/music/modular", "stream": true, "is3D" : true }]
+  },
+  "music.modular": {
+    "category": "music",
+    "sounds": [{ "name": "sounds/custom/music/modular", "stream": true, "is3D" : false }]
+  },
+  "music.cold": {
+    "category": "music",
+    "sounds": [{ "name": "sounds/custom/music/cold1", "stream": true, "is3D" : false }]
+  },
+  "music.field": {
+    "category": "music",
     "sounds": [
       {
-        "name": "sounds/music/village/selmie",
+        "name": "sounds/custom/music/field1",
+        "is3D" : false,
+        "stream": true
+      },
+      {
+        "name": "sounds/custom/music/field2",
+        "is3D" : false,
+        "stream": true
+      },
+      {
+        "name": "sounds/custom/music/field3",
+        "is3D" : false,
+        "stream": true
+      },
+      {
+        "name": "sounds/custom/music/field4",
+        "is3D" : false,
         "stream": true
       }
     ]
   },
-  "music.village.wizard": {
-    "category": "music",
-    "sounds": [
+  "ambient.weather.rain" : {
+    "__use_legacy_max_distance" : "true",
+    "category" : "weather",
+    "min_distance" : 100.0,
+    "sounds" : [
       {
-        "name": "sounds/music/village/wizard",
-        "stream": true
+        "load_on_low_memory" : true,
+        "name" : "sounds/ambient/weather/rain1",
+        "volume" : 0.050
+      },
+      {
+        "name" : "sounds/ambient/weather/rain2",
+        "volume" : 0.050
+      },
+      {
+        "name" : "sounds/ambient/weather/rain3",
+        "volume" : 0.050
+      },
+      {
+        "name" : "sounds/ambient/weather/rain4",
+        "volume" : 0.050
+      },
+      {
+        "name" : "sounds/ambient/weather/rain5",
+        "volume" : 0.050
+      },
+      {
+        "name" : "sounds/ambient/weather/rain6",
+        "volume" : 0.050
+      },
+      {
+        "name" : "sounds/ambient/weather/rain7",
+        "volume" : 0.050
+      },
+      {
+        "name" : "sounds/ambient/weather/rain8",
+        "volume" : 0.050
       }
+    ]
+  },
+  "ambient.weather.thunder" : {
+    "__use_legacy_max_distance" : "true",
+    "category" : "weather",
+    "min_distance" : 100.0,
+    "sounds" : [
+      {
+        "load_on_low_memory" : true,
+        "volume" : 0.6,
+        "name" : "sounds/ambient/weather/thunder1"
+      },
+      {
+        "volume" : 0.6,
+        "name" : "sounds/ambient/weather/thunder2"
+      },
+      {
+        "volume" : 0.6,
+        "name" : "sounds/ambient/weather/thunder3"
+      },
+      {
+        "volume" : 0.6,
+        "name" : "sounds/ambient/weather/thunder4"
+      },
+      {
+        "volume" : 0.6,
+        "name" : "sounds/ambient/weather/thunder6"
+      },
+      {
+        "volume" : 0.6,
+        "name" : "sounds/ambient/weather/thunder12"
+      },
+      {
+        "volume" : 0.6,
+        "name" : "sounds/ambient/weather/thunder13"
+      }
+    ]
+  },
+  "block.blastfurnace.fire_crackle" : {
+    "__use_legacy_max_distance" : "true",
+    "category" : "block",
+    "sounds" : [
+      "sounds/block/blastfurnace/blastfurnace1",
+      "sounds/block/blastfurnace/blastfurnace2",
+      "sounds/block/blastfurnace/blastfurnace3",
+      "sounds/block/blastfurnace/blastfurnace4",
+      "sounds/block/blastfurnace/blastfurnace5"
+    ]
+  },
+  "block.smoker.smoke" : {
+    "__use_legacy_max_distance" : "true",
+    "category" : "block",
+    "sounds" : [
+      "sounds/block/smoker/smoker1",
+      "sounds/block/smoker/smoker2",
+      "sounds/block/smoker/smoker3",
+      "sounds/block/smoker/smoker4",
+      "sounds/block/smoker/smoker5"
     ]
   }
 }
