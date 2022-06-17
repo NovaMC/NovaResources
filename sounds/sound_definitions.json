@@ -1,169 +1,269 @@
 {
   "sound_effect.chatroom_exit": {
     "category": "ui",
-    "sounds": [{ "name": "sounds/custom/chatroom_exit", "volume" : 0.65, "is3D" : false }]
+    "sounds": [
+      {
+        "name": "sounds/custom/chatroom_exit",
+        "volume": 0.65,
+        "is3D": false
+      }
+    ]
   },
   "sound_effect.chatroom_join": {
     "category": "ui",
-    "sounds": [{ "name": "sounds/custom/chatroom_join", "volume" : 0.65, "is3D" : false }]
+    "sounds": [
+      {
+        "name": "sounds/custom/chatroom_join",
+        "volume": 0.65,
+        "is3D": false
+      }
+    ]
   },
   "sound_effect.launch": {
     "category": "block",
-    "sounds": [{ "name": "sounds/custom/launch", "volume" : 0.6, "is3D" : false }]
+    "sounds": [
+      {
+        "name": "sounds/custom/launch",
+        "volume": 0.6,
+        "is3D": false
+      }
+    ]
   },
   "music.village.gerudo_night": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/gerudo_night", "volume" : 0.15, "stream": true, "is3D" : false }]
+    "sounds": [
+      {
+        "name": "sounds/custom/music/village/gerudo_night",
+        "volume": 0.15,
+        "stream": true,
+        "is3D": false
+      }
+    ]
   },
   "music.village.hateno": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/hateno", "volume" : 0.15, "stream": true, "is3D" : false }]
+    "sounds": [
+      {
+        "name": "sounds/custom/music/village/hateno",
+        "volume": 0.15,
+        "stream": true,
+        "is3D": false
+      }
+    ]
   },
   "music.village.hateno_night": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/hateno_night", "volume" : 0.15, "stream": true, "is3D" : false }]
+    "sounds": [
+      {
+        "name": "sounds/custom/music/village/hateno_night",
+        "volume": 0.15,
+        "stream": true,
+        "is3D": false
+      }
+    ]
   },
   "music.village.lurelin_night": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/lurelin_night", "volume" : 0.15, "stream": true, "is3D" : false }]
+    "sounds": [
+      {
+        "name": "sounds/custom/music/village/lurelin_night",
+        "volume": 0.15,
+        "stream": true,
+        "is3D": false
+      }
+    ]
   },
   "music.village.rito_night": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/rito_night", "volume" : 0.15, "stream": true, "is3D" : false }]
+    "sounds": [
+      {
+        "name": "sounds/custom/music/village/rito_night",
+        "volume": 0.15,
+        "stream": true,
+        "is3D": false
+      }
+    ]
   },
   "music.village.selmie": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/selmie", "volume" : 0.15, "stream": true, "is3D" : false }]
+    "sounds": [
+      {
+        "name": "sounds/custom/music/village/selmie",
+        "volume": 0.15,
+        "stream": true,
+        "is3D": false
+      }
+    ]
   },
   "music.village.tavern_bob": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/tavern_bob", "volume" : 0.15, "stream": true, "is3D" : false }]
+    "sounds": [
+      {
+        "name": "sounds/custom/music/village/tavern_bob",
+        "volume": 0.15,
+        "stream": true,
+        "is3D": false
+      }
+    ]
   },
   "music.village.tavern_slow": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/tavern_slow", "volume" : 0.15, "stream": true, "is3D" : false }]
+    "sounds": [
+      {
+        "name": "sounds/custom/music/village/tavern_slow",
+        "volume": 0.15,
+        "stream": true,
+        "is3D": false
+      }
+    ]
   },
   "music.village.wizard": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/village/wizard", "volume" : 0.15, "stream": true, "is3D" : false }]
+    "sounds": [
+      {
+        "name": "sounds/custom/music/village/wizard",
+        "volume": 0.15,
+        "stream": true,
+        "is3D": false
+      }
+    ]
   },
   "music_disc.modular": {
     "category": "record",
-    "sounds": [{ "name": "sounds/custom/music/modular", "stream": true, "is3D" : true }]
+    "sounds": [
+      {
+        "name": "sounds/custom/music/modular",
+        "stream": true,
+        "is3D": true
+      }
+    ]
   },
   "music.modular": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/modular", "volume" : 0.15, "stream": true, "is3D" : false }]
+    "sounds": [
+      {
+        "name": "sounds/custom/music/modular",
+        "volume": 0.15,
+        "stream": true,
+        "is3D": false
+      }
+    ]
   },
   "music.cold": {
     "category": "music",
-    "sounds": [{ "name": "sounds/custom/music/cold1", "stream": true, "is3D" : false }]
+    "sounds": [
+      {
+        "name": "sounds/custom/music/cold1",
+        "stream": true,
+        "is3D": false
+      }
+    ]
   },
   "music.field": {
     "category": "music",
     "sounds": [
       {
         "name": "sounds/custom/music/field1",
-        "is3D" : false,
+        "is3D": false,
         "stream": true
       },
       {
         "name": "sounds/custom/music/field2",
-        "is3D" : false,
+        "is3D": false,
         "stream": true
       },
       {
         "name": "sounds/custom/music/field3",
-        "is3D" : false,
+        "is3D": false,
         "stream": true
       },
       {
         "name": "sounds/custom/music/field4",
-        "is3D" : false,
+        "is3D": false,
         "stream": true
       }
     ]
   },
-  "ambient.weather.rain" : {
-    "__use_legacy_max_distance" : "true",
-    "category" : "weather",
-    "min_distance" : 100.0,
-    "sounds" : [
+  "ambient.weather.rain": {
+    "__use_legacy_max_distance": "true",
+    "category": "weather",
+    "min_distance": 100,
+    "sounds": [
       {
-        "load_on_low_memory" : true,
-        "name" : "sounds/ambient/weather/rain1",
-        "volume" : 0.050
+        "load_on_low_memory": true,
+        "name": "sounds/ambient/weather/rain1",
+        "volume": 0.05
       },
       {
-        "name" : "sounds/ambient/weather/rain2",
-        "volume" : 0.050
+        "name": "sounds/ambient/weather/rain2",
+        "volume": 0.05
       },
       {
-        "name" : "sounds/ambient/weather/rain3",
-        "volume" : 0.050
+        "name": "sounds/ambient/weather/rain3",
+        "volume": 0.05
       },
       {
-        "name" : "sounds/ambient/weather/rain4",
-        "volume" : 0.050
+        "name": "sounds/ambient/weather/rain4",
+        "volume": 0.05
       },
       {
-        "name" : "sounds/ambient/weather/rain5",
-        "volume" : 0.050
+        "name": "sounds/ambient/weather/rain5",
+        "volume": 0.05
       },
       {
-        "name" : "sounds/ambient/weather/rain6",
-        "volume" : 0.050
+        "name": "sounds/ambient/weather/rain6",
+        "volume": 0.05
       },
       {
-        "name" : "sounds/ambient/weather/rain7",
-        "volume" : 0.050
+        "name": "sounds/ambient/weather/rain7",
+        "volume": 0.05
       },
       {
-        "name" : "sounds/ambient/weather/rain8",
-        "volume" : 0.050
+        "name": "sounds/ambient/weather/rain8",
+        "volume": 0.05
       }
     ]
   },
-  "ambient.weather.thunder" : {
-    "__use_legacy_max_distance" : "true",
-    "category" : "weather",
-    "min_distance" : 100.0,
-    "sounds" : [
+  "ambient.weather.thunder": {
+    "__use_legacy_max_distance": "true",
+    "category": "weather",
+    "min_distance": 100,
+    "sounds": [
       {
-        "load_on_low_memory" : true,
-        "volume" : 0.75,
-        "name" : "sounds/ambient/weather/thunder1"
+        "load_on_low_memory": true,
+        "volume": 0.75,
+        "name": "sounds/ambient/weather/thunder1"
       },
       {
-        "volume" : 0.75,
-        "name" : "sounds/ambient/weather/thunder2"
+        "volume": 0.75,
+        "name": "sounds/ambient/weather/thunder2"
       },
       {
-        "volume" : 0.75,
-        "name" : "sounds/ambient/weather/thunder3"
+        "volume": 0.75,
+        "name": "sounds/ambient/weather/thunder3"
       },
       {
-        "volume" : 0.75,
-        "name" : "sounds/ambient/weather/thunder4"
+        "volume": 0.75,
+        "name": "sounds/ambient/weather/thunder4"
       },
       {
-        "volume" : 0.75,
-        "name" : "sounds/ambient/weather/thunder6"
+        "volume": 0.75,
+        "name": "sounds/ambient/weather/thunder6"
       },
       {
-        "volume" : 0.75,
-        "name" : "sounds/ambient/weather/thunder12"
+        "volume": 0.75,
+        "name": "sounds/ambient/weather/thunder12"
       },
       {
-        "volume" : 0.75,
-        "name" : "sounds/ambient/weather/thunder13"
+        "volume": 0.75,
+        "name": "sounds/ambient/weather/thunder13"
       }
     ]
   },
-  "block.blastfurnace.fire_crackle" : {
-    "__use_legacy_max_distance" : "true",
-    "category" : "block",
-    "sounds" : [
+  "block.blastfurnace.fire_crackle": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "sounds": [
       "sounds/block/blastfurnace/blastfurnace1",
       "sounds/block/blastfurnace/blastfurnace2",
       "sounds/block/blastfurnace/blastfurnace3",
@@ -171,15 +271,807 @@
       "sounds/block/blastfurnace/blastfurnace5"
     ]
   },
-  "block.smoker.smoke" : {
-    "__use_legacy_max_distance" : "true",
-    "category" : "block",
-    "sounds" : [
+  "block.smoker.smoke": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "sounds": [
       "sounds/block/smoker/smoker1",
       "sounds/block/smoker/smoker2",
       "sounds/block/smoker/smoker3",
       "sounds/block/smoker/smoker4",
       "sounds/block/smoker/smoker5"
+    ]
+  },
+  "fall.anvil": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/step/metalstep1",
+        "pitch": 1
+      },
+      {
+        "name": "sounds/step/metalstep2",
+        "pitch": 1
+      },
+      {
+        "name": "sounds/step/metalstep3",
+        "pitch": 1
+      },
+      {
+        "name": "sounds/step/metalstep4",
+        "pitch": 1
+      },
+      {
+        "name": "sounds/step/metalstep5",
+        "pitch": 1
+      },
+      {
+        "name": "sounds/step/metalstep6",
+        "pitch": 1
+      }
+    ]
+  },
+  "fall.glass": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/step/glassstep1",
+        "pitch": 0.8,
+        "volume": 3.5
+      },
+      {
+        "name": "sounds/step/glassstep2",
+        "pitch": 0.8,
+        "volume": 3.5
+      },
+      {
+        "name": "sounds/step/glassstep3",
+        "pitch": 0.8,
+        "volume": 3.5
+      },
+      {
+        "name": "sounds/step/glassstep4",
+        "pitch": 0.8,
+        "volume": 3.5
+      },
+      {
+        "name": "sounds/step/glassstep5",
+        "pitch": 0.8,
+        "volume": 3.5
+      },
+      {
+        "name": "sounds/step/glassstep6",
+        "pitch": 0.8,
+        "volume": 3.5
+      }
+    ]
+  },
+  "fall.metal": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/step/metalstep1",
+        "pitch": 0.8,
+        "volume": 4
+      },
+      {
+        "name": "sounds/step/metalstep2",
+        "pitch": 0.8,
+        "volume": 4
+      },
+      {
+        "name": "sounds/step/metalstep3",
+        "pitch": 0.8,
+        "volume": 4
+      },
+      {
+        "name": "sounds/step/metalstep4",
+        "pitch": 0.8,
+        "volume": 4
+      },
+      {
+        "name": "sounds/step/metalstep5",
+        "pitch": 0.8,
+        "volume": 4
+      },
+      {
+        "name": "sounds/step/metalstep6",
+        "pitch": 0.8,
+        "volume": 4
+      }
+    ]
+  },
+  "fall.stone": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/step/marble_walk1",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "sounds/step/marble_walk10",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "sounds/step/marble_walk11",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "sounds/step/marble_walk2",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "sounds/step/marble_walk3",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "sounds/step/marble_walk4",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "sounds/step/marble_walk5",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "sounds/step/marble_walk6",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "sounds/step/marble_walk7",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "sounds/step/marble_walk8",
+        "volume": 1.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "sounds/step/marble_walk9",
+        "volume": 1.5,
+        "pitch": 0.5
+      }
+    ]
+  },
+  "fall.wood": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/step/woodstep1",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/woodstep2",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/woodstep3",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/woodstep4",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/woodstep5",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/woodstep6",
+        "volume": 2
+      }
+    ]
+  },
+  "step.anvil": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/metalstep1",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/metalstep2",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/metalstep3",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/metalstep4",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/metalstep5",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/metalstep6",
+        "pitch": 0.5,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/metalstep1",
+        "pitch": 0.3,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/metalstep2",
+        "pitch": 0.3,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/metalstep3",
+        "pitch": 0.3,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/metalstep4",
+        "pitch": 0.7,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/metalstep5",
+        "pitch": 0.7,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/metalstep6",
+        "pitch": 0.7,
+        "volume": 2
+      }
+    ]
+  },
+  "step.cloth": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/step/clothstep1",
+        "volume": 8,
+        "pitch": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/clothstep2",
+        "volume": 8,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/step/clothstep3",
+        "volume": 8,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/step/clothstep4",
+        "volume": 8,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/step/clothstep5",
+        "volume": 8,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/step/clothstep6",
+        "volume": 8,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/step/clothstep1",
+        "volume": 8,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/step/clothstep2",
+        "volume": 8,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/step/clothstep3",
+        "volume": 8,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/step/clothstep4",
+        "volume": 8,
+        "pitch": 1.2
+      },
+      {
+        "name": "sounds/step/clothstep5",
+        "volume": 8,
+        "pitch": 1.2
+      },
+      {
+        "name": "sounds/step/clothstep6",
+        "volume": 8,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "step.glass": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/glassstep1",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/glassstep2",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/glassstep3",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/glassstep4",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/glassstep5",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/glassstep6",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/glassstep1",
+        "pitch": 0.8,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/glassstep2",
+        "pitch": 0.8,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/glassstep3",
+        "pitch": 0.8,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/glassstep4",
+        "pitch": 1.2,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/glassstep5",
+        "pitch": 1.2,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/glassstep6",
+        "pitch": 1.2,
+        "volume": 2
+      }
+    ]
+  },
+  "step.grass": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/grassstep1",
+        "volume": 1
+      },
+      {
+        "name": "sounds/step/grassstep2",
+        "volume": 1
+      },
+      {
+        "name": "sounds/step/grassstep3",
+        "volume": 1
+      },
+      {
+        "name": "sounds/step/grassstep4",
+        "volume": 1
+      },
+      {
+        "name": "sounds/step/grassstep5",
+        "volume": 1
+      },
+      {
+        "name": "sounds/step/grassstep6",
+        "volume": 1
+      }
+    ]
+  },
+  "step.gravel": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/gravelstep1",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/gravelstep2",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/gravelstep3",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/gravelstep4",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/gravelstep5",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/gravelstep6",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/gravelstep1",
+        "pitch": 0.8,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/gravelstep2",
+        "pitch": 0.8,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/gravelstep3",
+        "pitch": 0.8,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/gravelstep4",
+        "pitch": 1.2,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/gravelstep5",
+        "pitch": 1.2,
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/gravelstep6",
+        "pitch": 1.2,
+        "volume": 2
+      }
+    ]
+  },
+  "step.metal": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/metalstep1",
+        "pitch": 0.5,
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/metalstep2",
+        "pitch": 0.5,
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/metalstep3",
+        "pitch": 0.5,
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/metalstep4",
+        "pitch": 0.5,
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/metalstep5",
+        "pitch": 0.5,
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/metalstep6",
+        "pitch": 0.5,
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/metalstep1",
+        "pitch": 0.3,
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/metalstep2",
+        "pitch": 0.3,
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/metalstep3",
+        "pitch": 0.3,
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/metalstep4",
+        "pitch": 0.7,
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/metalstep5",
+        "pitch": 0.7,
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/metalstep6",
+        "pitch": 0.7,
+        "volume": 3
+      }
+    ]
+  },
+  "step.sand": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/sandstep1",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/sandstep2",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/sandstep3",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/sandstep4",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/sandstep5",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/sandstep6",
+        "volume": 2
+      },
+      {
+        "name": "sounds/step/sandstep1",
+        "volume": 2,
+        "pitch": 1.2
+      },
+      {
+        "name": "sounds/step/sandstep2",
+        "volume": 2,
+        "pitch": 1.2
+      },
+      {
+        "name": "sounds/step/sandstep3",
+        "volume": 2,
+        "pitch": 1.2
+      },
+      {
+        "name": "sounds/step/sandstep4",
+        "volume": 2,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/step/sandstep5",
+        "volume": 2,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/step/sandstep6",
+        "volume": 2,
+        "pitch": 0.8
+      }
+    ]
+  },
+  "step.snow": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/snowstep1",
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/snowstep2",
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/snowstep3",
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/snowstep4",
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/snowstep5",
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/snowstep6",
+        "volume": 3
+      },
+      {
+        "name": "sounds/step/snowstep1",
+        "volume": 3,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/step/snowstep2",
+        "volume": 3,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/step/snowstep3",
+        "volume": 3,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/step/snowstep4",
+        "volume": 3,
+        "pitch": 1.2
+      },
+      {
+        "name": "sounds/step/snowstep5",
+        "volume": 3,
+        "pitch": 1.2
+      },
+      {
+        "name": "sounds/step/snowstep6",
+        "volume": 3,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "step.stone": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/marble_walk1",
+        "volume": 0.8,
+        "pitch": 0.7
+      },
+      {
+        "name": "sounds/step/marble_walk10",
+        "volume": 0.8,
+        "pitch": 0.7
+      },
+      {
+        "name": "sounds/step/marble_walk11",
+        "volume": 0.8,
+        "pitch": 0.7
+      },
+      {
+        "name": "sounds/step/marble_walk2",
+        "volume": 0.8,
+        "pitch": 0.7
+      },
+      {
+        "name": "sounds/step/marble_walk3",
+        "volume": 0.8,
+        "pitch": 0.7
+      },
+      {
+        "name": "sounds/step/marble_walk4",
+        "volume": 0.8,
+        "pitch": 0.7
+      },
+      {
+        "name": "sounds/step/marble_walk5",
+        "volume": 0.8,
+        "pitch": 0.7
+      },
+      {
+        "name": "sounds/step/marble_walk6",
+        "volume": 0.8,
+        "pitch": 0.7
+      },
+      {
+        "name": "sounds/step/marble_walk7",
+        "volume": 0.8,
+        "pitch": 0.7
+      },
+      {
+        "name": "sounds/step/marble_walk8",
+        "volume": 0.8,
+        "pitch": 0.7
+      },
+      {
+        "name": "sounds/step/marble_walk9",
+        "volume": 0.8,
+        "pitch": 0.7
+      }
+    ]
+  },
+  "step.wood": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/step/woodstep1",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/step/woodstep2",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/step/woodstep3",
+        "volume": 0.8
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/woodstep4",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/step/woodstep5",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/step/woodstep6",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/step/woodstep1",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/step/woodstep2",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/step/woodstep3",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/step/woodstep4",
+        "pitch": 1.2,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/step/woodstep5",
+        "pitch": 1.2,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/step/woodstep6",
+        "pitch": 1.2,
+        "volume": 0.8
+      }
     ]
   }
 }

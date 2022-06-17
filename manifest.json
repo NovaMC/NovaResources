@@ -3,7 +3,7 @@
   "header": {
     "description": "§bResources for Nova Network.",
     "name": "NovaResources",
-    "uuid": "d8235cfb-fdd7-4a58-b069-f9da5b2b4650",
+    "uuid": "3100a273-003b-4bee-865d-f36e7ad80470",
     "version": [0, 0, 1],
     "min_engine_version": [1, 2, 6]
   },
@@ -11,7 +11,7 @@
     {
       "description": "§bResources for Nova Network.",
       "type": "resources",
-      "uuid": "ecfba806-b964-423e-a8d3-09996e5f4edd",
+      "uuid": "ba40d93d-1207-404a-84e3-58143fdbb841",
       "version": [0, 0, 1]
     }
   ]
