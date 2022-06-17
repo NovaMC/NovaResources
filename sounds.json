@@ -1,0 +1,234 @@
+{
+  "interactive_sounds": {
+    "anvil": {
+      "events": {
+        "default": "",
+        "fall": {
+          "sounds": "fall.anvil",
+          "volume": 0.4
+        },
+        "jump": {
+          "sound": "step.anvil",
+          "volume": 0.02
+        },
+        "land": {
+          "sound": "fall.anvil",
+          "volume": 0.04
+        },
+        "step": {
+          "sound": "step.anvil",
+          "volume": 0.3
+        }
+      },
+      "pitch": 1,
+      "volume": 0.6
+    },
+    "cloth": {
+      "events": {
+        "default": "",
+        "fall": {
+          "sounds": "fall.cloth",
+          "volume": 0.4
+        },
+        "jump": {
+          "sound": "step.cloth",
+          "volume": 0.02
+        },
+        "land": {
+          "sound": "fall.cloth",
+          "volume": 0.04
+        },
+        "step": {
+          "sound": "step.cloth",
+          "volume": 0.3
+        }
+      },
+      "pitch": 1,
+      "volume": 0.6
+    },
+    "glass": {
+      "events": {
+        "default": "",
+        "fall": {
+          "sounds": "fall.glass",
+          "volume": 0.4
+        },
+        "jump": {
+          "sound": "step.glass",
+          "volume": 0.02
+        },
+        "land": {
+          "sound": "fall.glass",
+          "volume": 0.04
+        },
+        "step": {
+          "sound": "step.glass",
+          "volume": 0.3
+        }
+      },
+      "pitch": 1,
+      "volume": 0.6
+    },
+    "grass": {
+      "events": {
+        "default": "",
+        "fall": {
+          "sounds": "fall.grass",
+          "volume": 0.4
+        },
+        "jump": {
+          "sound": "step.grass",
+          "volume": 0.02
+        },
+        "land": {
+          "sound": "fall.grass",
+          "volume": 0.04
+        },
+        "step": {
+          "sound": "step.grass",
+          "volume": 0.3
+        }
+      },
+      "pitch": 1,
+      "volume": 0.6
+    },
+    "gravel": {
+      "events": {
+        "default": "",
+        "fall": {
+          "sounds": "fall.gravel",
+          "volume": 0.4
+        },
+        "jump": {
+          "sound": "step.gravel",
+          "volume": 0.02
+        },
+        "land": {
+          "sound": "fall.gravel",
+          "volume": 0.04
+        },
+        "step": {
+          "sound": "step.gravel",
+          "volume": 0.3
+        }
+      },
+      "pitch": 1,
+      "volume": 0.6
+    },
+    "metal": {
+      "events": {
+        "default": "",
+        "fall": {
+          "sounds": "fall.metal",
+          "volume": 0.4
+        },
+        "jump": {
+          "sound": "step.metal",
+          "volume": 0.02
+        },
+        "land": {
+          "sound": "fall.metal",
+          "volume": 0.04
+        },
+        "step": {
+          "sound": "step.metal",
+          "volume": 0.3
+        }
+      },
+      "pitch": 1,
+      "volume": 0.6
+    },
+    "sand": {
+      "events": {
+        "default": "",
+        "fall": {
+          "sounds": "fall.sand",
+          "volume": 0.4
+        },
+        "jump": {
+          "sound": "step.sand",
+          "volume": 0.02
+        },
+        "land": {
+          "sound": "fall.sand",
+          "volume": 0.04
+        },
+        "step": {
+          "sound": "step.sand",
+          "volume": 0.3
+        }
+      },
+      "pitch": 1,
+      "volume": 0.6
+    },
+    "snow": {
+      "events": {
+        "default": "",
+        "fall": {
+          "sounds": "fall.snow",
+          "volume": 0.4
+        },
+        "jump": {
+          "sound": "step.snow",
+          "volume": 0.02
+        },
+        "land": {
+          "sound": "fall.snow",
+          "volume": 0.04
+        },
+        "step": {
+          "sound": "step.snow",
+          "volume": 0.3
+        }
+      },
+      "pitch": 1,
+      "volume": 0.6
+    },
+    "stone": {
+      "events": {
+        "default": "",
+        "fall": {
+          "sounds": "fall.stone",
+          "volume": 0.4
+        },
+        "jump": {
+          "sound": "step.stone",
+          "volume": 0.02
+        },
+        "land": {
+          "sound": "fall.stone",
+          "volume": 0.04
+        },
+        "step": {
+          "sound": "step.stone",
+          "volume": 0.3
+        }
+      },
+      "pitch": 0.1,
+      "volume": 0.6
+    },
+    "wood": {
+      "events": {
+        "default": "",
+        "fall": {
+          "sounds": "fall.wood",
+          "volume": 0.4
+        },
+        "jump": {
+          "sound": "step.wood",
+          "volume": 0.02
+        },
+        "land": {
+          "sound": "fall.wood",
+          "volume": 0.04
+        },
+        "step": {
+          "sound": "step.wood",
+          "volume": 0.3
+        }
+      },
+      "pitch": 1,
+      "volume": 0.6
+    }
+  }
+}
