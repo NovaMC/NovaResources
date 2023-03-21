@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "nova:ui/hud/hud_thermometer.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uE300\uE301\uE302\uE303\uE304\uE305"
+            ]
+        }
+    ]
+}

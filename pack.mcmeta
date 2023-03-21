@@ -1,6 +1,6 @@
 {
    "pack": {
-      "pack_format": 8,
-      "description": "§bEnhanced resourcepack with extra sounds."
+      "pack_format": 12,
+      "description": "§bResources for Nova custom content."
    }
 }
